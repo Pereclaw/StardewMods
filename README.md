@@ -10,26 +10,26 @@ Ukrainian translation for Stardew Valley and it's Mods | Український 
 ## Моди для Stardew Valley
 Українські переклади модів для гри Stardew Valley, переклад самої гри та мод-лаунчерів для неї (Як от SMAPI)
 
-(❑ = Неготовий переклад, ↻ = Частковий переклад, ✓ = Повністю готовий переклад)
+(❑ = Не готовий переклад, ↻ = Неповний переклад, ∆ = Готовий неофіційний переклад, ✓ = Готовий офіційний переклад)
 
 &nbsp;                            | Статус перекладу                                                    | Посилання на завантаження                                                                | Перекладач(і) і помічники
 --------------------------------- | :------------------------------------------------------------: | :------------------------------------------------------------------------: | :-----------------------------------------------------------------------:
-Stardew Valley                    | [✓](StardewValley/)                                            | [Nexus](https://www.nexusmods.com/stardewvalley/mods/7052)                 | [![@MemeeThechoco](https://avatars.githubusercontent.com/u/61545047?s=36)](https://github.com/MemeeThechoco)  [![@MemoLiza](https://avatars.githubusercontent.com/u/61897755?s=36)](https://github.com/MemoLiza)  [![@Pookhao23](https://avatars.githubusercontent.com/u/61622581?s=36)](https://github.com/Poopoo2002)  [![@RushingOn](https://avatars.githubusercontent.com/u/61596911?s=36)](https://github.com/RushingOn)  [![@SabiMiyato](https://avatars.githubusercontent.com/u/62402134?s=36)](https://github.com/SabiMiyato)  [![@Tomyamkung](https://avatars.githubusercontent.com/u/61552106?s=36)](https://github.com/Hipster1707)
-Ridgeside Village                 | [↻](Ridgeside%20Village/)                                      |
-Chests Anywhere                   | [✓](ChestsAnywhere/i18n/th.json)                               | [Nexus](https://www.nexusmods.com/stardewvalley/mods/518)                  | [![@SabiMiyato](https://avatars.githubusercontent.com/u/62402134?s=36)](https://github.com/SabiMiyato)
-CJB Cheats Menu                   | [✓](CJBCheatsMenu/i18n/th.json)                                | [Nexus](https://www.nexusmods.com/stardewvalley/mods/4/)                   |
-CJB Item Spawner                  | [✓](CJBItemSpawner/i18n/th.json)                               | [Nexus](https://www.nexusmods.com/stardewvalley/mods/93)
-CJB Show Item Sell Price          | [✓](CJBShowItemSellPrice/i18n/th.json)                         | [Nexus](https://www.nexusmods.com/stardewvalley/mods/5)
-Community Center Helper           | [✓](CommunityCenterHelper/i18n/th.json)                        | [Nexus](https://www.nexusmods.com/stardewvalley/mods/6893)
-Data Layers                       | [✓](DataLayers/i18n/th.json)                                   | [Nexus](https://www.nexusmods.com/stardewvalley/mods/1691)
-Debug Mode                        | [✓](DebugMode/i18n/th.json)                                    | [Nexus](https://www.nexusmods.com/stardewvalley/mods/679)
-Error Handler                     | [✓](ErrorHandler/i18n/th.json)                                 | [SMAPI.io](https://smapi.io/)
-Gift Taste Helper                 | [✓](GiftTasteHelper/i18n/th.json)                              | [↻](https://github.com/tstaples/GiftTasteHelper/pull/24)
-Noclip Mode                       | [✓](NoclipMode/i18n/th.json)                                   | [Nexus](https://www.nexusmods.com/stardewvalley/mods/3900)
-NPC Map Locations                 | [✓](NPCMapLocations/i18n/th.json)                              | [↻](https://github.com/bouhm/stardew-valley-mods/pull/82)
-SMAPI                             | [✓](smapi-internal/i18n/th.json)                               | [SMAPI.io](https://smapi.io/)
-Tractor Mod                       | [✓](TractorMod/i18n/th.json)                                   | [Nexus](https://www.nexusmods.com/stardewvalley/mods/1401)
-UI Info Suite 2                   | [✓](UIInfoSuite2/i18n/th.json)                                 | [Github](https://github.com/Annosz/UIInfoSuite2/releases)
+Stardew Valley                    | [∆](StardewValley/)                                            | [Nexus](https://www.nexusmods.com/stardewvalley/mods/)                     | [![@ChulkyBow](https://avatars.githubusercontent.com/u/62402134?s=36)](https://github.com/ChulkyBow) [![@Olexn](https://avatars.githubusercontent.com/u/61545047?s=36)](https://github.com/Olexn)  [![@Ellipszist](https://avatars.githubusercontent.com/u/61897755?s=36)](https://github.com/Ellipszist)
+Ridgeside Village                 | [❑](Ridgeside%20Village/)                                     |
+Chests Anywhere                   | [✓](ChestsAnywhere/i18n/uk.json)                               | [Nexus](https://www.nexusmods.com/stardewvalley/mods/518)                  | [![@ChulkyBow](https://avatars.githubusercontent.com/u/62402134?s=36)](https://github.com/ChulkyBow)
+CJB Cheats Menu                   | [✓](CJBCheatsMenu/i18n/uk.json)                                | [Nexus](https://www.nexusmods.com/stardewvalley/mods/4/)                   |
+CJB Item Spawner                  | [✓](CJBItemSpawner/i18n/uk.json)                               | [Nexus](https://www.nexusmods.com/stardewvalley/mods/93)
+CJB Show Item Sell Price          | [✓](CJBShowItemSellPrice/i18n/uk.json)                         | [Nexus](https://www.nexusmods.com/stardewvalley/mods/5)
+Community Center Helper           | [✓](CommunityCenterHelper/i18n/uk.json)                        | [Nexus](https://www.nexusmods.com/stardewvalley/mods/6893)
+Data Layers                       | [✓](DataLayers/i18n/uk.json)                                   | [Nexus](https://www.nexusmods.com/stardewvalley/mods/1691)
+Debug Mode                        | [✓](DebugMode/i18n/uk.json)                                    | [Nexus](https://www.nexusmods.com/stardewvalley/mods/679)
+Error Handler                     | [✓](ErrorHandler/i18n/uk.json)                                 | [SMAPI.io](https://smapi.io/)
+Gift Taste Helper                 | [✓](GiftTasteHelper/i18n/uk.json)                              | [↻](https://github.com/tstaples/GiftTasteHelper/pull/)
+Noclip Mode                       | [✓](NoclipMode/i18n/uk.json)                                   | [Nexus](https://www.nexusmods.com/stardewvalley/mods/3900)
+NPC Map Locations                 | [✓](NPCMapLocations/i18n/uk.json)                              | [Nexus]()
+SMAPI                             | [✓](smapi-internal/i18n/uk.json)                               | [SMAPI.io](https://smapi.io/)
+Tractor Mod                       | [✓](TractorMod/i18n/uk.json)                                   | [Nexus](https://www.nexusmods.com/stardewvalley/mods/1401)
+UI Info Suite 2                   | [✓](UIInfoSuite2/i18n/uk.json)                                 | [Github](https://github.com/Annosz/UIInfoSuite2/releases)
 
 ## อยากจะช่วยแปลต้องทำยังไง?
 
