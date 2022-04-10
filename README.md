@@ -8,11 +8,13 @@
 Ukrainian translation for Stardew Valley and it's Mods | Український переклад Stardew Valley та модів для неї
 
 ## Моди для Stardew Valley
-Українські переклади модів для гри Stardew Valley, переклад самої гри та мод-лаунчерів для неї (Як от SMAPI)
+Українські переклади модів для гри Stardew Valley, переклад самої гри та мод-лаунчерів для неї (Як от SMAPI).
+
+P.S : Переклад можна робити на будь-які мови гри. В іншому випадку дивіться код мови в параметрі **LanguageCode** в content.json файлі локалізації. SMAPI автоматично обиратиме ту мову перекладу, якою ви граєте.
 
 (❑ = Не готовий переклад, ↻ = Неповний переклад, ∆ = Завершений неофіційний переклад, ✓ = Завершений офіційний переклад)
 
-&nbsp;                            | Статус перекладу                                                    | Посилання на завантаження                                                                | Перекладач(і) і помічники
+&nbsp;                            | Статус перекладу                                                    | Посилання на завантаження                                                                | Список перекладачів та помічників
 --------------------------------- | :------------------------------------------------------------: | :------------------------------------------------------------------------: | :-----------------------------------------------------------------------:
 Stardew Valley                    | [∆](StardewValley/)                                            | [Nexus](https://www.nexusmods.com/stardewvalley/mods/)                     | [![@ChulkyBow](https://avatars.githubusercontent.com/u/83290351?s=36)](https://github.com/ChulkyBow) [![@burunduk](https://avatars.githubusercontent.com/u/912818?s=36)](https://github.com/burunduk)  [![@Ellipszist](https://avatars.githubusercontent.com/u/43781364?s=36)](https://github.com/Ellipszist)
 Ridgeside Village                 | [❑](Ridgeside%20Village/)                                      |
@@ -37,20 +39,28 @@ UI Info Suite 2                   | [✓](UIInfoSuite2/i18n/uk.json)            
 [Посібник з користування Github!](https://youtu.be/iv8rSLsi1xo)
 
 #### Ти маєш знати, де чи як перекладати
-[Google перекладач з англійської українською]()
-[Deepl Translate]()
+[Google перекладач з англійської українською](https://www.google.com/search?q=%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%B4%D0%B0%D1%87+%D0%B7+%D0%B0%D0%BD%D0%B3%D0%BB%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%BE%D1%97+%D0%BD%D0%B0+%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%83&oq=%D0%9F%D0%B5%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%B4%D0%B0%D1%87&)
 
+[Deepl Translate](https://www.deepl.com/en/translator)
 
-#### ชื่อกลาง (สำคัญมากๆ ต้องแปลตามนี้เท่านั้น)
-[Stardew Valley Glossary](https://docs.google.com/spreadsheets/d/1DBdyvEI9XNAWEPpptKmIHfUj0gGdAFzyjHH9oR7U0Zc/edit?usp=sharing)
+[Національний перекладач українською](https://www.m-translate.com.ua/#text=Stardew%20Valley&direction=en-uk)
 
-#### ระบบฐานข้อมูลคำทับศัพท์ของสำนักงานราชบัณฑิตยสภา (ใช้สำหรับแปลทับศัพท์)
-[Transliteration](https://transliteration.orst.go.th)
+#### Ти маєш знати правила граматики, лексики тошо! На щастя, тобі можуть допомогти наступні сервіси :
+[LanguageTool - перевірка граматики](https://languagetool.org/uk)
+
+[Українські вигуки та похідні слова](https://steamcommunity.com/groups/UkrainianTranslation/discussions/0/2264691750499622777/)
+
+[Офіційні правила транслітерації](https://zakon.rada.gov.ua/laws/show/55-2010-%D0%BF#Text)
+
+#### Вікіпедії завжди стануть в пригоді!
+[Українська Вікіпедія](https://uk.m.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0)
+
+[Офіційна Вікіпедія Stardew Valley](https://stardewvalleywiki.com/Stardew_Valley_Wiki)
 
 #### พูดคุยได้เกี่ยวกับการแปล
 [Discord ทีมพัฒนา Mod ภาษาไทย](https://discord.gg/7GaBeqm)
 
-## รายชื่อผู้จัดทำ
+## Список організаторів
 
 #### จัดทำและแปลโดย Translator Army
 Memee Thechoco, MemoLiza, Pookhao23, RushingOn, SabiMiyato, Tomyamkung.
