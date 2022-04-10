@@ -74,20 +74,11 @@ ChulkyBow.
 #### Visual Game Translation | Переклад візуальної частини гри
 ChulkyBow.
 
-#### Testers | Тестувальники
+#### Beta Testers | Тестувальники
 ChulkyBow, FoxyBowNoir, Nekury, Shikadai Nara, Makzef, DidkoDana, MrMult, Burunduk.
 
 #### Bugtrackers | Баго-шукачі
-ChulkyBow, FoxyBowNoir, uaxpasha, burunduk32, Nekury, Shikadai Nara, Trash_designer, Yvan_Snig, MrMult, DidkoDana, Владислав, ace0k.
+ChulkyBow, FoxyBowNoir, uaxpasha, burunduk32, Nekury, Shikadai Nara, Trash_designer, Yvan_Snig, MrMult, DidkoDana, Владислав, ace0k, burunduk.
 
-#### ทําเนียบนักแปล
-Davykun, iParnRequiem, PangInFN, ProfessorHydra, Tawan, unknownwmz.
-
-#### ขอบคุณทีมงานเดิม
-Artdekdok, cybertorns, MiXEL.SC, NoTSoXDream, Pigter, sornzilla, superogira.
-
-#### Chief Beta Tester
-Grace Manassanan.
-
-#### Beta tester
-Aek, Agist, Alice, Anel, BirdBBK, Kazuma, Mark, PadalPrussus, POo7x, TaNGGoDZeeD, The-Little-G, Venice, wa, zalxXxlaz.
+#### Translation Helpers | Помічники з перекладом
+Burunduk, Trash_designer, Yvan_Snig, berandinow, makzef, MrMult, DidkoDana, Владислав, ace0k.
