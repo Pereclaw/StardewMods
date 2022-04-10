@@ -57,8 +57,14 @@ UI Info Suite 2                   | [✓](UIInfoSuite2/i18n/uk.json)            
 
 [Офіційна Вікіпедія Stardew Valley](https://stardewvalleywiki.com/Stardew_Valley_Wiki)
 
+[Українська Вікіпедія Stardew Valley](https://stardew-valley.fandom.com/uk/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0)
+
 #### Спілкуйтеся та обговорюйте переклади!
-[Discord ทีมพัฒนา Mod ภาษาไทย](https://discord.gg/7GaBeqm)
+[Офіційний сервер гри Stardew Valley в Discord]()
+
+[Український сервер Stardew Valley в Discord](https://discord.gg/Mj5TVDmKFd)
+
+[Група «Stardew Valley Україна» в Steam](http://steamcommunity.com/groups/StardewValleyUkraine)
 
 ## Список організаторів
 
