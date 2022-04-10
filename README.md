@@ -66,22 +66,19 @@ UI Info Suite 2                   | [✓](UIInfoSuite2/i18n/uk.json)            
 
 [Група «Stardew Valley Україна» в Steam](http://steamcommunity.com/groups/StardewValleyUkraine)
 
-## Список організаторів
+## Translators List | Список перекладачів
 
-#### จัดทำและแปลโดย Translator Army
-Memee Thechoco, MemoLiza, Pookhao23, RushingOn, SabiMiyato, Tomyamkung.
+#### Text Translation | Переклад текстів гри
+ChulkyBow.
 
-#### รายชื่อผู้โดเนทแอปขึ้น Play Store
-'ELL, Krit, Memee Thechoco, นิรนาม.
+#### Visual Game Translation | Переклад візуальної частини гри
+ChulkyBow.
 
-#### CODER & MODDER
-'ELL, SabiMiyato.
+#### Testers | Тестувальники
+ChulkyBow, FoxyBowNoir, Nekury, Shikadai Nara, Makzef, DidkoDana, MrMult, Burunduk.
 
-#### ตัดต่อวิดีโอ & กราฟิก
-Shibosan, Pu_Chew.
-
-#### ผู้จัดทำเวอร์ชั่น 1.0-1.8.8
-SORNZiLLATE, NoTSoXDream, JASON.
+#### Bugtrackers | Баго-шукачі
+ChulkyBow, FoxyBowNoir, uaxpasha, burunduk32, Nekury, Shikadai Nara, Trash_designer, Yvan_Snig, MrMult, DidkoDana, Владислав, ace0k.
 
 #### ทําเนียบนักแปล
 Davykun, iParnRequiem, PangInFN, ProfessorHydra, Tawan, unknownwmz.
