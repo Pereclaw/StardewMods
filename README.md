@@ -23,7 +23,7 @@ Chests Anywhere                   | [✓](ChestsAnywhere/i18n/uk.json)          
 CJB Cheats Menu                   | [✓](CJBCheatsMenu/i18n/uk.json)                                | [Nexus](https://www.nexusmods.com/stardewvalley/mods/4/)                   |
 CJB Item Spawner                  | [✓](CJBItemSpawner/i18n/uk.json)                               | [Nexus](https://www.nexusmods.com/stardewvalley/mods/93)                   |
 CJB Show Item Sell Price          | [✓](CJBShowItemSellPrice/i18n/uk.json)                         | [Nexus](https://www.nexusmods.com/stardewvalley/mods/5)                    |
-Cooking Skill                     | [∆](CookingSkill/i18n/uk.json)                                 | [↻](https://github.com/spacechase0/StardewValleyMods/pull/143)            |
+Cooking Skill                     | [∆](CookingSkill/i18n/uk.json)                                 | [↻](https://github.com/spacechase0/StardewValleyMods/pull/143)            | [![@burunduk](https://avatars.githubusercontent.com/u/912818?s=36)](https://github.com/burunduk)
 Community Center Helper           | [✓](CommunityCenterHelper/i18n/uk.json)                        | [Nexus](https://www.nexusmods.com/stardewvalley/mods/6893)                 |
 Data Layers                       | [✓](DataLayers/i18n/uk.json)                                   | [Nexus](https://www.nexusmods.com/stardewvalley/mods/1691)                 |
 Debug Mode                        | [✓](DebugMode/i18n/uk.json)                                    | [Nexus](https://www.nexusmods.com/stardewvalley/mods/679)                  | [![@ChulkyBow](https://avatars.githubusercontent.com/u/83290351?s=36)](https://github.com/ChulkyBow)
