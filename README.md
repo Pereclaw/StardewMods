@@ -50,7 +50,7 @@ UI Info Suite 2                   | [✓](UIInfoSuite2/i18n/uk.json)            
 
 [Національний перекладач українською](https://www.m-translate.com.ua/#text=Stardew%20Valley&direction=en-uk)
 
-#### Ти маєш знати правила граматики, лексики тошо! На щастя, тобі можуть допомогти наступні сервіси :
+#### Ти маєш знати правила граматики, лексики тощо! На щастя, тобі можуть допомогти наступні сервіси :
 [LanguageTool - перевірка граматики](https://languagetool.org/uk)
 
 [Українські вигуки та звуконаслідувальні слова](https://steamcommunity.com/groups/UkrainianTranslation/discussions/0/2264691750499622777/)
