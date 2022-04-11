@@ -57,7 +57,7 @@ UI Info Suite 2                   | [✓](UIInfoSuite2/i18n/uk.json)            
 
 [Українські вигуки та звуконаслідувальні слова](https://steamcommunity.com/groups/UkrainianTranslation/discussions/0/2264691750499622777/)
 
-[Правила написання](https://mon.gov.ua/storage/app/media/zagalna%20serednya/05062019-onovl-pravo.pdf)
+[Український правопис](https://mon.gov.ua/storage/app/media/zagalna%20serednya/05062019-onovl-pravo.pdf)
 
 [Офіційні правила транслітерації](https://zakon.rada.gov.ua/laws/show/55-2010-%D0%BF#Text)
 
