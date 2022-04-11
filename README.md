@@ -28,6 +28,7 @@ Debug Mode                        | [✓](DebugMode/i18n/uk.json)               
 DynamicGameAssets                 | [✓](DynamicGameAssets/i18n/uk.json)                            | [Nexus](https://www.nexusmods.com/stardewvalley/mods/9365)                 | [![@burunduk](https://avatars.githubusercontent.com/u/912818?s=36)](https://github.com/burunduk)
 Error Handler                     | [✓](ErrorHandler/i18n/uk.json)                                 | [SMAPI.io](https://smapi.io/)                                              |
 FastAnimations                    | [✓](FastAnimations/i18n/uk.json)                               | [Nexus](https://www.nexusmods.com/stardewvalley/mods/1089)                 |
+GeneralModConfigMenu              | [✓](GeneralModConfigMenu/i18n/uk.json)                         | [Nexus]()                                                                  |
 Gift Taste Helper                 | [∆](GiftTasteHelper/i18n/uk.json)                              | [↻](https://github.com/tstaples/GiftTasteHelper/pull/26)                  |
 HorseFluteAnywhere                | [✓](HorseFluteAnywhere/i18n/uk.json)                           | [Nexus](https://www.nexusmods.com/stardewvalley/mods/7500)                 |
 Noclip Mode                       | [✓](NoclipMode/i18n/uk.json)                                   | [Nexus](https://www.nexusmods.com/stardewvalley/mods/3900)                 |
@@ -36,7 +37,7 @@ NPC Map Locations                 | [✓](NPCMapLocations/i18n/uk.json)         
 SkipIntro                         | [✓](SkipIntro/i18n/uk.json)                                    | [Nexus](https://www.nexusmods.com/stardewvalley/mods/533)                  |
 SmallBeachFarm                    | [✓](SmallBeachFarm/i18n/uk.json)                               | [Nexus](https://www.nexusmods.com/stardewvalley/mods/3750)                 |
 SMAPI                             | [✓](smapi-internal/i18n/uk.json)                               | [SMAPI.io](https://smapi.io/)                                              |
-Statue of Generosity              | [✓](StatueOfGenerosity/i18n/uk.json)                           | [Nexus]()                                                                  | [![@burunduk](https://avatars.githubusercontent.com/u/912818?s=36)](https://github.com/burunduk)
+Statue of Generosity              | [✓](StatueOfGenerosity/i18n/uk.json)                           | [Nexus](https://www.nexusmods.com/stardewvalley/mods/7532)                 | [![@burunduk](https://avatars.githubusercontent.com/u/912818?s=36)](https://github.com/burunduk)
 Ridgeside Village                 | [❑](Ridgeside%20Village/)                                      |                                                                            |
 Tractor Mod                       | [✓](TractorMod/i18n/uk.json)                                   | [Nexus](https://www.nexusmods.com/stardewvalley/mods/1401)                 |
 UI Info Suite 2                   | [✓](UIInfoSuite2/i18n/uk.json)                                 | [Github](https://github.com/Annosz/UIInfoSuite2/releases)                  |
