@@ -37,6 +37,7 @@ General Mod Config Menu           | [✓](GeneralModConfigMenu/i18n/uk.json)    
 Gift Taste Helper                 | [∆](GiftTasteHelper/i18n/uk.json)                              | [↑](https://github.com/tstaples/GiftTasteHelper/pull/26)                  |
 Grandpa's Tools                   | [✓](GrandpasTools/i18n/uk.json)                                | [↑](https://www.nexusmods.com/stardewvalley/mods/8835?tab=posts)          | [![@ChulkyBow](https://avatars.githubusercontent.com/u/83290351?s=36)](https://github.com/ChulkyBow)
 Horse Flute Anywhere              | [✓](HorseFluteAnywhere/i18n/uk.json)                           | [Nexus](https://www.nexusmods.com/stardewvalley/mods/7500)                 |
+Multiplayer Mod                   | [∆](MultiplayerMod/i18n/uk.json)                               | [Google Диск](https://drive.google.com/file/d/15xigcZU-9A3mbZdebc_ykdyFc3NIl8HZ/view?usp=drivesdk)| [![@ChulkyBow](https://avatars.githubusercontent.com/u/83290351?s=36)](https://github.com/ChulkyBow)
 Noclip Mode                       | [✓](NoclipMode/i18n/uk.json)                                   | [Nexus](https://www.nexusmods.com/stardewvalley/mods/3900)                 |
 Lookup Anything                   | [✓](LookupAnything/i18n/uk.json)                               | [Nexus](https://www.nexusmods.com/stardewvalley/mods/541)                  |
 NPC Map Locations                 | [✓](NPCMapLocations/i18n/uk.json)                              | [Nexus](https://www.nexusmods.com/stardewvalley/mods/239)                  |
