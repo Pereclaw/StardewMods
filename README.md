@@ -12,18 +12,18 @@ Ukrainian translation for Stardew Valley and it's Mods | Український 
 
 P.S : Переклад можна робити на будь-які мови гри. В іншому випадку дивіться код мови в параметрі **LanguageCode** в content.json файлі локалізації. SMAPI автоматично обиратиме ту мову перекладу, якою граєте ви.
 
-(❑ = Не готовий переклад, ↻ = Неповний переклад, ∆ = Завершений неофіційний переклад, ✓ = Завершений офіційний переклад)
+(❑ = Не готовий переклад, ↻ = Неповний переклад, ∆ = Завершений неофіційний переклад, ↑ = Ще не опублікований переклад, ✓ = Завершений офіційний переклад)
 
 &nbsp;                            | Статус перекладу                                                    | Посилання на завантаження                                                                | Список перекладачів та помічників
 --------------------------------- | :------------------------------------------------------------: | :------------------------------------------------------------------------: | :-----------------------------------------------------------------------:
 Stardew Valley                    | [∆](StardewValley/)                                            | [Nexus](https://www.nexusmods.com/stardewvalley/mods/8427)                 | [![@ChulkyBow](https://avatars.githubusercontent.com/u/83290351?s=36)](https://github.com/ChulkyBow) [![@burunduk](https://avatars.githubusercontent.com/u/912818?s=36)](https://github.com/burunduk)  [![@Ellipszist](https://avatars.githubusercontent.com/u/43781364?s=36)](https://github.com/Ellipszist)
-Animal Social Menu                | [∆](AnimalSocialMenu/i18n/uk.json)                             | [↻](https://github.com/spacechase0/StardewValleyMods/pull/143)            | [![@burunduk](https://avatars.githubusercontent.com/u/912818?s=36)](https://github.com/burunduk)
+Animal Social Menu                | [∆](AnimalSocialMenu/i18n/uk.json)                             | [↑](https://github.com/spacechase0/StardewValleyMods/pull/143)            | [![@burunduk](https://avatars.githubusercontent.com/u/912818?s=36)](https://github.com/burunduk)
 Automate                          | [✓](Automate/i18n/uk.json)                                     | [Nexus](https://www.nexusmods.com/stardewvalley/mods/1063)                 |
 Chests Anywhere                   | [✓](ChestsAnywhere/i18n/uk.json)                               | [Nexus](https://www.nexusmods.com/stardewvalley/mods/518)                  |
 CJB Cheats Menu                   | [✓](CJBCheatsMenu/i18n/uk.json)                                | [Nexus](https://www.nexusmods.com/stardewvalley/mods/4/)                   |
 CJB Item Spawner                  | [✓](CJBItemSpawner/i18n/uk.json)                               | [Nexus](https://www.nexusmods.com/stardewvalley/mods/93)                   |
 CJB Show Item Sell Price          | [✓](CJBShowItemSellPrice/i18n/uk.json)                         | [Nexus](https://www.nexusmods.com/stardewvalley/mods/5)                    |
-Cooking Skill                     | [∆](CookingSkill/i18n/uk.json)                                 | [↻](https://github.com/spacechase0/StardewValleyMods/pull/143)            | [![@burunduk](https://avatars.githubusercontent.com/u/912818?s=36)](https://github.com/burunduk)
+Cooking Skill                     | [∆](CookingSkill/i18n/uk.json)                                 | [↑](https://github.com/spacechase0/StardewValleyMods/pull/143)            | [![@burunduk](https://avatars.githubusercontent.com/u/912818?s=36)](https://github.com/burunduk)
 Community Center Helper           | [✓](CommunityCenterHelper/i18n/uk.json)                        | [Nexus](https://www.nexusmods.com/stardewvalley/mods/6893)                 |
 Data Layers                       | [✓](DataLayers/i18n/uk.json)                                   | [Nexus](https://www.nexusmods.com/stardewvalley/mods/1691)                 |
 Debug Mode                        | [✓](DebugMode/i18n/uk.json)                                    | [Nexus](https://www.nexusmods.com/stardewvalley/mods/679)                  | [![@ChulkyBow](https://avatars.githubusercontent.com/u/83290351?s=36)](https://github.com/ChulkyBow)
@@ -31,7 +31,7 @@ Dynamic Game Assets               | [✓](DynamicGameAssets/i18n/uk.json)       
 Error Handler                     | [✓](ErrorHandler/i18n/uk.json)                                 | [SMAPI.io](https://smapi.io/)                                              |
 Fast Animations                   | [✓](FastAnimations/i18n/uk.json)                               | [Nexus](https://www.nexusmods.com/stardewvalley/mods/1089)                 |
 General Mod Config Menu           | [✓](GeneralModConfigMenu/i18n/uk.json)                         | [Nexus](https://www.nexusmods.com/stardewvalley/mods/5098)                 | [![@ChulkyBow](https://avatars.githubusercontent.com/u/83290351?s=36)](https://github.com/ChulkyBow)
-Gift Taste Helper                 | [∆](GiftTasteHelper/i18n/uk.json)                              | [↻](https://github.com/tstaples/GiftTasteHelper/pull/26)                  |
+Gift Taste Helper                 | [∆](GiftTasteHelper/i18n/uk.json)                              | [↑](https://github.com/tstaples/GiftTasteHelper/pull/26)                  |
 Horse Flute Anywhere              | [✓](HorseFluteAnywhere/i18n/uk.json)                           | [Nexus](https://www.nexusmods.com/stardewvalley/mods/7500)                 |
 Noclip Mode                       | [✓](NoclipMode/i18n/uk.json)                                   | [Nexus](https://www.nexusmods.com/stardewvalley/mods/3900)                 |
 Lookup Anything                   | [✓](LookupAnything/i18n/uk.json)                               | [Nexus](https://www.nexusmods.com/stardewvalley/mods/541)                  |
@@ -39,7 +39,7 @@ NPC Map Locations                 | [✓](NPCMapLocations/i18n/uk.json)         
 Skip Intro                        | [✓](SkipIntro/i18n/uk.json)                                    | [Nexus](https://www.nexusmods.com/stardewvalley/mods/533)                  |
 Small Beach Farm                  | [✓](SmallBeachFarm/i18n/uk.json)                               | [Nexus](https://www.nexusmods.com/stardewvalley/mods/3750)                 |
 SMAPI                             | [✓](smapi-internal/i18n/uk.json)                               | [SMAPI.io](https://smapi.io/)                                              |
-Space Core                        | [∆](SpaceCore/i18n/uk.json)                                    | [↻](https://github.com/spacechase0/StardewValleyMods/pull/143)             | [![@burunduk](https://avatars.githubusercontent.com/u/912818?s=36)](https://github.com/burunduk)
+Space Core                        | [∆](SpaceCore/i18n/uk.json)                                    | [↑](https://github.com/spacechase0/StardewValleyMods/pull/143)             | [![@burunduk](https://avatars.githubusercontent.com/u/912818?s=36)](https://github.com/burunduk)
 Statue of Generosity              | [✓](StatueOfGenerosity/i18n/uk.json)                           | [Nexus](https://www.nexusmods.com/stardewvalley/mods/7532)                 | [![@burunduk](https://avatars.githubusercontent.com/u/912818?s=36)](https://github.com/burunduk)
 Ridgeside Village                 | [❑](Ridgeside%20Village/)                                      |                                                                            |
 Tractor Mod                       | [✓](TractorMod/i18n/uk.json)                                   | [Nexus](https://www.nexusmods.com/stardewvalley/mods/1401)                 | [![@ChulkyBow](https://avatars.githubusercontent.com/u/83290351?s=36)](https://github.com/ChulkyBow)
