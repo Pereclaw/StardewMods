@@ -28,6 +28,7 @@ Debug Mode                        | [✓](DebugMode/i18n/uk.json)               
 Error Handler                     | [✓](ErrorHandler/i18n/uk.json)                                 | [SMAPI.io](https://smapi.io/)                                              |
 FastAnimations                    | [✓](FastAnimations/i18n/uk.json)                               | [Nexus](https://www.nexusmods.com/stardewvalley/mods/1089)                 |
 Gift Taste Helper                 | [∆](GiftTasteHelper/i18n/uk.json)                              | [↻](https://github.com/tstaples/GiftTasteHelper/pull/26)                  |
+HorseFluteAnywhere                | [✓](HorseFluteAnywhere/i18n/uk.json)                           |                                                                            |
 Noclip Mode                       | [✓](NoclipMode/i18n/uk.json)                                   | [Nexus](https://www.nexusmods.com/stardewvalley/mods/3900)                 |
 NPC Map Locations                 | [✓](NPCMapLocations/i18n/uk.json)                              | [Nexus](https://www.nexusmods.com/stardewvalley/mods/239)                  |
 SMAPI                             | [✓](smapi-internal/i18n/uk.json)                               | [SMAPI.io](https://smapi.io/)                                              |
