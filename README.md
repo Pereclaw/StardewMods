@@ -53,6 +53,7 @@ Ranged Tools                      | [✓](RangedTools/i18n/uk.json)             
 Ridgeside Village                 | [❑](Ridgeside%20Village/)                                      |                                                                            |
 TMXL Map Toolkit                  | [∆](TMXLoader/i18n/uk.json)                                    | [↑](https://www.nexusmods.com/stardewvalley/mods/1820?tab=posts)          | [![@ChulkyBow](https://avatars.githubusercontent.com/u/83290351?s=36)](https://github.com/ChulkyBow)
 Tractor Mod                       | [✓](TractorMod/i18n/uk.json)                                   | [Nexus](https://www.nexusmods.com/stardewvalley/mods/1401)                 | [![@ChulkyBow](https://avatars.githubusercontent.com/u/83290351?s=36)](https://github.com/ChulkyBow)
+UI Info Suite                     | [∆](UIInfoSuite/i18n/uk.json)                                  | [↑](https://github.com/cdaragorn/Ui-Info-Suite/pull/85)                   |
 UI Info Suite 2                   | [✓](UIInfoSuite2/i18n/uk.json)                                 | [Github](https://github.com/Annosz/UIInfoSuite2/releases)                  |
 ## Я хочу допомогти з перекладом, але як я можу це зробити?
 
