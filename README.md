@@ -39,7 +39,7 @@ SmallBeachFarm                    | [✓](SmallBeachFarm/i18n/uk.json)          
 SMAPI                             | [✓](smapi-internal/i18n/uk.json)                               | [SMAPI.io](https://smapi.io/)                                              |
 Statue of Generosity              | [✓](StatueOfGenerosity/i18n/uk.json)                           | [Nexus](https://www.nexusmods.com/stardewvalley/mods/7532)                 | [![@burunduk](https://avatars.githubusercontent.com/u/912818?s=36)](https://github.com/burunduk)
 Ridgeside Village                 | [❑](Ridgeside%20Village/)                                      |                                                                            |
-Tractor Mod                       | [✓](TractorMod/i18n/uk.json)                                   | [Nexus](https://www.nexusmods.com/stardewvalley/mods/1401)                 |
+Tractor Mod                       | [✓](TractorMod/i18n/uk.json)                                   | [Nexus](https://www.nexusmods.com/stardewvalley/mods/1401)                 | [![@ChulkyBow](https://avatars.githubusercontent.com/u/83290351?s=36)](https://github.com/ChulkyBow)
 UI Info Suite 2                   | [✓](UIInfoSuite2/i18n/uk.json)                                 | [Github](https://github.com/Annosz/UIInfoSuite2/releases)                  |
 ## Я хочу допомогти з перекладом, але як я можу це зробити?
 
