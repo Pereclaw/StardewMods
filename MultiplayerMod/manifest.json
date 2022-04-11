@@ -1,0 +1,10 @@
+{
+    "Name": "Multiplayer Mod",
+    "Author": "Tran Minh Thong",
+    "Version": "1.0.0",
+    "Description": "It is a mod that supports multiplayer and takes the Android platform as the mainstream.",
+    "UniqueID": "Multiplayer.Mod",
+    "EntryDll": "MultiplayerMod_Thong_DTN",
+    "MinimumApiVersion": "3.7.6",
+   "UpdateKeys": ["Nexus:9355"]
+}
