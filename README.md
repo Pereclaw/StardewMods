@@ -28,7 +28,7 @@ Debug Mode                        | [✓](DebugMode/i18n/uk.json)               
 DynamicGameAssets                 | [✓](DynamicGameAssets/i18n/uk.json)                            | [Nexus](https://www.nexusmods.com/stardewvalley/mods/9365)                 | [![@burunduk](https://avatars.githubusercontent.com/u/912818?s=36)](https://github.com/burunduk)
 Error Handler                     | [✓](ErrorHandler/i18n/uk.json)                                 | [SMAPI.io](https://smapi.io/)                                              |
 FastAnimations                    | [✓](FastAnimations/i18n/uk.json)                               | [Nexus](https://www.nexusmods.com/stardewvalley/mods/1089)                 |
-GeneralModConfigMenu              | [✓](GeneralModConfigMenu/i18n/uk.json)                         | [Nexus]()                                                                  |
+GeneralModConfigMenu              | [✓](GeneralModConfigMenu/i18n/uk.json)                         | [Nexus](https://www.nexusmods.com/stardewvalley/mods/5098)                 | [![@ChulkyBow](https://avatars.githubusercontent.com/u/83290351?s=36)](https://github.com/ChulkyBow)
 Gift Taste Helper                 | [∆](GiftTasteHelper/i18n/uk.json)                              | [↻](https://github.com/tstaples/GiftTasteHelper/pull/26)                  |
 HorseFluteAnywhere                | [✓](HorseFluteAnywhere/i18n/uk.json)                           | [Nexus](https://www.nexusmods.com/stardewvalley/mods/7500)                 |
 Noclip Mode                       | [✓](NoclipMode/i18n/uk.json)                                   | [Nexus](https://www.nexusmods.com/stardewvalley/mods/3900)                 |
