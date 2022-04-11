@@ -38,7 +38,7 @@ SMAPI                             | [✓](smapi-internal/i18n/uk.json)          
 Ridgeside Village                 | [❑](Ridgeside%20Village/)                                     |                                                                            |
 Tractor Mod                       | [✓](TractorMod/i18n/uk.json)                                   | [Nexus](https://www.nexusmods.com/stardewvalley/mods/1401)                 |
 UI Info Suite 2                   | [✓](UIInfoSuite2/i18n/uk.json)                                 | [Github](https://github.com/Annosz/UIInfoSuite2/releases)                  |
-## Я хочу допомогти з перекладом, але як я моду це зробити?
+## Я хочу допомогти з перекладом, але як я можу це зробити?
 
 #### Треба навчитися користуватися платформою Github
 [Посібник з користування Github!](https://youtu.be/iv8rSLsi1xo)
