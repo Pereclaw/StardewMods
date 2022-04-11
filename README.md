@@ -26,6 +26,7 @@ Community Center Helper           | [✓](CommunityCenterHelper/i18n/uk.json)   
 Data Layers                       | [✓](DataLayers/i18n/uk.json)                                   | [Nexus](https://www.nexusmods.com/stardewvalley/mods/1691)                 |
 Debug Mode                        | [✓](DebugMode/i18n/uk.json)                                    | [Nexus](https://www.nexusmods.com/stardewvalley/mods/679)                  | [![@ChulkyBow](https://avatars.githubusercontent.com/u/83290351?s=36)](https://github.com/ChulkyBow)
 Error Handler                     | [✓](ErrorHandler/i18n/uk.json)                                 | [SMAPI.io](https://smapi.io/)                                              |
+FastAnimations                    | [✓](FastAnimations/i18n/uk.json)                               |                                                                            |
 Gift Taste Helper                 | [∆](GiftTasteHelper/i18n/uk.json)                              | [↻](https://github.com/tstaples/GiftTasteHelper/pull/26)                  |
 Noclip Mode                       | [✓](NoclipMode/i18n/uk.json)                                   | [Nexus](https://www.nexusmods.com/stardewvalley/mods/3900)                 |
 NPC Map Locations                 | [✓](NPCMapLocations/i18n/uk.json)                              | [Nexus](https://www.nexusmods.com/stardewvalley/mods/239)                  |
