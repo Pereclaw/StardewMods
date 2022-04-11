@@ -25,6 +25,7 @@ CJB Show Item Sell Price          | [✓](CJBShowItemSellPrice/i18n/uk.json)    
 Community Center Helper           | [✓](CommunityCenterHelper/i18n/uk.json)                        | [Nexus](https://www.nexusmods.com/stardewvalley/mods/6893)                 |
 Data Layers                       | [✓](DataLayers/i18n/uk.json)                                   | [Nexus](https://www.nexusmods.com/stardewvalley/mods/1691)                 |
 Debug Mode                        | [✓](DebugMode/i18n/uk.json)                                    | [Nexus](https://www.nexusmods.com/stardewvalley/mods/679)                  | [![@ChulkyBow](https://avatars.githubusercontent.com/u/83290351?s=36)](https://github.com/ChulkyBow)
+DynamicGameAssets                 | [✓](DynamicGameAssets/i18n/uk.json)                            | [Nexus]()                                                                  | [![@burunduk](https://avatars.githubusercontent.com/u/912818?s=36)](https://github.com/burunduk)
 Error Handler                     | [✓](ErrorHandler/i18n/uk.json)                                 | [SMAPI.io](https://smapi.io/)                                              |
 FastAnimations                    | [✓](FastAnimations/i18n/uk.json)                               | [Nexus](https://www.nexusmods.com/stardewvalley/mods/1089)                 |
 Gift Taste Helper                 | [∆](GiftTasteHelper/i18n/uk.json)                              | [↻](https://github.com/tstaples/GiftTasteHelper/pull/26)                  |
