@@ -35,6 +35,7 @@ Experience Bars                   | [∆](ExperienceBars/i18n/uk.json)          
 Fast Animations                   | [✓](FastAnimations/i18n/uk.json)                               | [Nexus](https://www.nexusmods.com/stardewvalley/mods/1089)                 |
 General Mod Config Menu           | [✓](GeneralModConfigMenu/i18n/uk.json)                         | [Nexus](https://www.nexusmods.com/stardewvalley/mods/5098)                 | [![@ChulkyBow](https://avatars.githubusercontent.com/u/83290351?s=36)](https://github.com/ChulkyBow)
 Gift Taste Helper                 | [∆](GiftTasteHelper/i18n/uk.json)                              | [↑](https://github.com/tstaples/GiftTasteHelper/pull/26)                  |
+Grandpa's Tools                   | [✓](GrandpasTools/i18n/uk.json)                                | [↑](https://www.nexusmods.com/stardewvalley/mods/8835?tab=posts)          | [![@ChulkyBow](https://avatars.githubusercontent.com/u/83290351?s=36)](https://github.com/ChulkyBow)
 Horse Flute Anywhere              | [✓](HorseFluteAnywhere/i18n/uk.json)                           | [Nexus](https://www.nexusmods.com/stardewvalley/mods/7500)                 |
 Noclip Mode                       | [✓](NoclipMode/i18n/uk.json)                                   | [Nexus](https://www.nexusmods.com/stardewvalley/mods/3900)                 |
 Lookup Anything                   | [✓](LookupAnything/i18n/uk.json)                               | [Nexus](https://www.nexusmods.com/stardewvalley/mods/541)                  |
