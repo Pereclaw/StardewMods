@@ -30,6 +30,7 @@ FastAnimations                    | [✓](FastAnimations/i18n/uk.json)          
 Gift Taste Helper                 | [∆](GiftTasteHelper/i18n/uk.json)                              | [↻](https://github.com/tstaples/GiftTasteHelper/pull/26)                  |
 HorseFluteAnywhere                | [✓](HorseFluteAnywhere/i18n/uk.json)                           | [Nexus](https://www.nexusmods.com/stardewvalley/mods/7500)                 |
 Noclip Mode                       | [✓](NoclipMode/i18n/uk.json)                                   | [Nexus](https://www.nexusmods.com/stardewvalley/mods/3900)                 |
+LookupAnything                    | [✓](LookupAnything/i18n/uk.json)                               | [Nexus]()                                                                  |
 NPC Map Locations                 | [✓](NPCMapLocations/i18n/uk.json)                              | [Nexus](https://www.nexusmods.com/stardewvalley/mods/239)                  |
 SMAPI                             | [✓](smapi-internal/i18n/uk.json)                               | [SMAPI.io](https://smapi.io/)                                              |
 Ridgeside Village                 | [❑](Ridgeside%20Village/)                                     |                                                                            |
