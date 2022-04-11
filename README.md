@@ -36,7 +36,8 @@ NPC Map Locations                 | [✓](NPCMapLocations/i18n/uk.json)         
 SkipIntro                         | [✓](SkipIntro/i18n/uk.json)                                    | [Nexus](https://www.nexusmods.com/stardewvalley/mods/533)                  |
 SmallBeachFarm                    | [✓](SmallBeachFarm/i18n/uk.json)                               | [Nexus](https://www.nexusmods.com/stardewvalley/mods/3750)                 |
 SMAPI                             | [✓](smapi-internal/i18n/uk.json)                               | [SMAPI.io](https://smapi.io/)                                              |
-Ridgeside Village                 | [❑](Ridgeside%20Village/)                                     |                                                                            |
+Statue of Generosity              | [✓](StatueOfGenerosity/i18n/uk.json)                           | [Nexus]()                                                                  | [![@burunduk](https://avatars.githubusercontent.com/u/912818?s=36)](https://github.com/burunduk)
+Ridgeside Village                 | [❑](Ridgeside%20Village/)                                      |                                                                            |
 Tractor Mod                       | [✓](TractorMod/i18n/uk.json)                                   | [Nexus](https://www.nexusmods.com/stardewvalley/mods/1401)                 |
 UI Info Suite 2                   | [✓](UIInfoSuite2/i18n/uk.json)                                 | [Github](https://github.com/Annosz/UIInfoSuite2/releases)                  |
 ## Я хочу допомогти з перекладом, але як я можу це зробити?
