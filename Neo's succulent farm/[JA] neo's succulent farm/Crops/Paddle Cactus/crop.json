@@ -1,0 +1,52 @@
+{
+    "Name": "Paddle Cactus",
+    "Product": "Opuntia",
+    "SeedName": "Paddle Cactus Stem",
+    "SeedDescription": "Grows in the spring and summer. takes 7 days to mature. keeps producing after first harvest.",
+    "Type": "Fruit",
+    "Seasons": ["spring", "summer"],
+    "Phases": [ 1, 1, 2, 2, 1 ],
+    "RegrowthPhase": 3,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+	{
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 3,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0
+    },
+    "SeedPurchasePrice": 100,
+    "SeedPurchaseRequirements": null,
+
+	"SeedNameLocalization": { 
+		// "es": "",
+		"ko": "주걱 선인장 줄기",
+		//"de": "",
+		//"fr": "",
+		"hu": "Fügekaktusz szár",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "стебель весло кактус",
+		//"tr": "",
+		"zh": "桨仙人掌茎",
+        "uk": "Стебло опунції"
+    },
+    "SeedDescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "봄과 여름에 자란다. 완전히 자라는데 7일 걸립니다. 자란 후 계속 수확할 수 있습니다.",
+		//"de": "",
+		//"fr": "",
+		"hu": "Tavasszal és nyáron nő. 7 nap kell, hogy megérjen. Az első aratást követően folyamatosan terem.",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "Растет весной и летом. Это растение вырастает за 7 дней. Продолжает приносить плоды после сбора первого урожая.",
+		//"tr": "",
+		"zh": "在春季和夏季生长。 需要7天才能成熟。 收获一次后还能再生。",
+        "uk": "Росте навесні та влітку. Потребує 7 днів, щоб вирости. Продовжує плодоносити після першого збору врожаю."
+    }  
+}

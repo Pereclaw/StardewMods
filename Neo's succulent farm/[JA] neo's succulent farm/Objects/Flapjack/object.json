@@ -1,0 +1,46 @@
+{
+	"Name": "Flapjack",
+	"Description": "odd plant that grows in a rosette of flat round leaves.",
+	"Category": "Flower",
+	"CategoryTextOverride": "Succulent",
+	"CategoryColorOverride": "32, 188, 146, 255",
+	"Edibility": -300,
+	"Price": 170,
+	"IsColored": false,
+	"Recipe": null,
+	"GiftTastes":
+  	{
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"]
+	},
+	  
+  	"NameLocalization":
+   	{ 
+		// "es": "",
+		"ko": "플랩잭",
+		//"de": "",
+		//"fr": "",
+		"hu": "flapjack kaktusz",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "flapjack кактус",
+		//"tr": "",
+		"zh": "Flapjack仙人掌",
+        "uk": "Кактус флепджек"
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "편평한 둥근 잎이 로제트 형으로 자라는 낯선 식물.",
+		//"de": "",
+		//"fr": "",
+		"hu": "Furcsa növény ami rozettában elrendezett lapos, kerek leveleket növeszt.",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "Необычное растение, которое растет в розетке из плоских круглых листьев.",
+		//"tr": "",
+		"zh": "生长在扁平圆叶莲座丛中的奇特植物。",
+        "uk": "Незвична рослина, що росте в розетці плоских круглих листків."
+    }  
+}

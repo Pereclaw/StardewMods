@@ -1,0 +1,53 @@
+{
+    "Name": "Aloe Vera",
+    "Product": "Aloe Leaf",
+    "SeedName": "Aloe Vera Stem",
+    "SeedDescription": "Grows in the fall and summer, takes 7 days to mature.",
+    "Type": "Fruit",
+    "Seasons": ["summer", "fall"],
+    "Phases": [ 1, 1, 2, 3, 1 ],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+	{
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 3,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0
+    },
+    "SeedPurchasePrice": 100,
+	"SeedPurchaseRequirements": null,
+
+    "SeedNameLocalization":
+    { 
+		// "es": "",
+		"ko": "알로에 베라 줄기",
+		//"de": "",
+		//"fr": "",
+		"hu": "Aloe vera szár",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "стебель Алоэ вера",
+		//"tr": "",
+		"zh": "芦荟茎",
+        "uk": "Стебло алое вера"
+    },
+    "SeedDescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "여름과 가을에 자랍니다. 완전히 자라는데 7일 걸립니다.",
+		//"de": "",
+		//"fr": "",
+		"hu": "Ősszel és nyáron nő. 7 nap kell, hogy megérjen.",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "Растет во все времена года, кроме зимы. Это растение вырастает за 7 дней.",
+		//"tr": "",
+		"zh": "秋季和夏季生长，需7天成熟。",
+        "uk": "Росте влітку та восени. Потребує 7 днів, щоб вирости."
+    }  
+}

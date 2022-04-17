@@ -1,0 +1,53 @@
+{
+    "Name": "Devils horns",
+    "Product": "Devils horns",
+    "SeedName": "Devils horns Stem",
+    "SeedDescription": "Grows year round but cant stand the winter. takes 6 days to mature.",
+    "Type": "Flower",
+    "Seasons": ["spring", "summer", "fall"],
+    "Phases": [ 1, 1, 2, 1, 1 ],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+	{
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0
+    },
+    "SeedPurchasePrice": 70,
+	"SeedPurchaseRequirements": null,
+	
+    "SeedNameLocalization":
+    { 
+		// "es": "",
+		"ko": "악마 뿔 선인장 줄기",
+		//"de": "",
+		//"fr": "",
+		"hu": "Ördögök szarv kaktusz szár",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "стебель Дьяволы рога кактус",
+		//"tr": "",
+		"zh": "魔鬼角茎",
+        "uk": "Стебло диявольських ріг"
+    },
+    "SeedDescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "겨울을 제외하고 일년 내내 자랍니다. 완전히 자라는데 6일 걸립니다.",
+		//"de": "",
+		//"fr": "",
+		"hu": "Egész évben nő, de a telet nem bírja. 6 nap kell, hogy megérjen.",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "Растет во все времена года, кроме зимы. Это растение вырастает за 6 дней.",
+		//"tr": "",
+		"zh": "除冬季外，全年均可生长。成熟需要6天。",
+        "uk": "Росте в усі пори року, окрім зими. Потребує 6 днів, щоб вирости."
+    }  
+}

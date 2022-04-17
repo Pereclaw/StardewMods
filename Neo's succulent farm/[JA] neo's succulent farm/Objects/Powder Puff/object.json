@@ -1,0 +1,46 @@
+{
+	"Name": "Powder Puff",
+	"Description": "This plant is native to cliff sides in mexico.",
+	"Category": "Flower",
+	"CategoryTextOverride": "Succulent",
+	"CategoryColorOverride": "32, 188, 146, 255",
+	"Edibility": -300,
+	"Price": 190,
+	"IsColored": false,
+	"Recipe": null,
+	"GiftTastes":
+	{
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"]
+	},
+	  
+   	"NameLocalization":
+   	{ 
+		// "es": "",
+		"ko": "파우더 퍼프 선인장",
+		//"de": "",
+		//"fr": "",
+		"hu": "Poros puff kaktusz",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "Порошкообразный кактус",
+		//"tr": "",
+		"zh": "高砂",
+        "uk": "Мамілярія"
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "이 식물은 멕시코의 벼랑 끝에서 자생합니다.",
+		//"de": "",
+		//"fr": "",
+		"hu": "Ez a növény mexikói szirteken őshonos.",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "Это растение родом из скалистых районов в Мексике.",
+		//"tr": "",
+		"zh": "这种植物原产于墨西哥的悬崖边。",
+        "uk": "Ця рослина родом зі скелястих районів в Мексиці."
+    }  
+}

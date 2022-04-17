@@ -1,0 +1,46 @@
+{
+	"Name": "Opuntia",
+	"Description": "A small and sweet fruit with tiny spikes.",
+	"Category": "Fruit",
+	"CategoryTextOverride": "Succulent",
+	"CategoryColorOverride": "32, 188, 146, 255",
+	"Edibility": 18,
+	"Price": 89,
+	"IsColored": false,
+	"Recipe": null,
+	"GiftTastes":
+	{
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"]
+	},
+	
+	"NameLocalization":
+	{ 
+		// "es": "",
+		"ko": "부채선인장 과일",
+		//"de": "",
+		//"fr": "",
+		"hu": "Tüskés körte",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "фрукт Опунция ",
+		//"tr": "",
+		"zh": "仙人掌",
+        "uk": "Опунція"
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "작은 가시가 있는 작고 달콤한 과일.",
+		//"de": "",
+		//"fr": "",
+		"hu": "	Egy kicsi és édes gyümölcs apró tüskékkel.",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "Небольшой сладкий фрукт с крошечными шипами.",
+		//"tr": "",
+		"zh": "一种带有小尖刺的小而甜的水果。",
+        "uk": "Маленький та смачний фрукт з крихітними шипами."
+    }  
+}

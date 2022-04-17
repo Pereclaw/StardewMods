@@ -1,0 +1,46 @@
+{
+	"Name": "Devils horns",
+	"Description": "Despite this plant's name, it only ever gains a red color when exposed to sunlight.",
+	"Category": "Flower",
+	"CategoryTextOverride": "Succulent",
+	"CategoryColorOverride": "32, 188, 146, 255",
+	"Edibility": -300,
+	"Price": 240,
+	"IsColored": false,
+	"Recipe": null,
+	"GiftTastes":
+  	{
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"]
+	},
+	  
+	"NameLocalization":
+	{ 
+		// "es": "",
+		"ko": "악마의 뿔",
+		//"de": "",
+		//"fr": "",
+		"hu": "Ördög szarvak",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "Дьявол рога",
+		//"tr": "",
+		"zh": "魔鬼角",
+        "uk": "Диявольські роги"
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "햇빛에 노출되었을 때만 붉게 물듭니다.",
+		//"de": "",
+		//"fr": "",
+		"hu": "A növény neve ellenére csak akkor nyer vörös árnyalatot, ha napfénynek van kitéve.",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "Несмотря на название, окрашивается в красный только при воздействии солнечного света.",
+		//"tr": "",
+		"zh": "尽管有这种名字，但它只有在暴露在阳光下时才会变成红色。",
+        "uk": "Незважаючи на назву цієї рослини, вона набуває червоного кольору лише під впливом сонячного світла."
+    }  
+}

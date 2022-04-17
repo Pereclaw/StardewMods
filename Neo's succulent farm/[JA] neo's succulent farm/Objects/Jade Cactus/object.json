@@ -1,0 +1,46 @@
+{
+	"Name": "Jade Cactus",
+	"Description": "One of the most common house plants despite its toxicity.",
+	"Category": "Flower",
+	"CategoryTextOverride": "Succulent",
+	"CategoryColorOverride": "32, 188, 146, 255",
+	"Edibility": -300,
+	"Price": 180,
+	"IsColored": false,
+	"Recipe": null,
+	"GiftTastes":
+  	{
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"]
+	},
+	  
+	"NameLocalization":
+	{ 
+		// "es": "",
+		"ko": "비취 선인장",
+		//"de": "",
+		//"fr": "",
+		"hu": "Jade Cactus",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "Нефритовый кактус",
+		//"tr": "",
+		"zh": "玉仙人掌",
+        "uk": "Товстянка"
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "독성이 있음에도 가장 흔한 실내식물 중 하나입니다.",
+		//"de": "",
+		//"fr": "",
+		"hu": "Méregtartalma ellenére az egyik leggyakoribb szobanövény.",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "Одно из самых распространенных комнатных растений, несмотря на его токсичность.",
+		//"tr": "",
+		"zh": "尽管有毒性，但它是最常见的室内植物之一。",
+        "uk": "Одна з найпоширеніших рослин, незважаючи на її токсичність."
+    }  
+}

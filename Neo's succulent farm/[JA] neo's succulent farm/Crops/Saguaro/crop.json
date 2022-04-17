@@ -1,0 +1,53 @@
+{
+    "Name": "Saguaro",
+    "Product": "Bahidaj",
+    "SeedName": "Saguaro Stem",
+    "SeedDescription": "Grows year round but cant stand the winter. takes 5 days to mature. keeps producing after first harvest.",
+    "Type": "Flower",
+    "Seasons": ["spring", "summer", "fall"],
+    "Phases": [ 1, 1, 1, 1, 1 ],
+    "RegrowthPhase": 3,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+	{
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 2,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0
+    },
+    "SeedPurchasePrice": 100,
+    "SeedPurchaseRequirements": null,
+
+    "SeedNameLocalization":
+    { 
+		// "es": "",
+		"ko": "사와로 선인장 줄기",
+		//"de": "",
+		//"fr": "",
+		"hu": "Saguaro szár",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "стебель Цереуса",
+		//"tr": "",
+		"zh": "巨柱仙人掌茎",
+        "uk": "Стебло карнегії"
+    },
+    "SeedDescriptionLocalization":
+    {
+    // "es": "",
+    "ko": "겨울을 제외하고 일년 내내 자랍니다. 완전히 자라는데 5일 걸립니다. 자란 후 계속 수확할 수 있습니다.",
+		//"de": "",
+		//"fr": "",
+		"hu": "Egész évben nő, de a telet nem bírja. 5 nap kell, hogy megérjen. Az első aratást követően folyamatosan terem.",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "Растет во все времена года, кроме зимы. Это растение вырастает за 5 дней. Продолжает приносить плоды после сбора первого урожая.",
+		//"tr": "",
+		"zh": "除冬季外，全年均可生长。成熟需要5天。 收获一次后可以继续收获。",
+        "uk": "Росте в усі пори року, окрім зими. Потребує 5 днів, щоб вирости. Продовжує плодоносити після першого збору врожаю."
+    }  
+}

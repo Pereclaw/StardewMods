@@ -1,0 +1,53 @@
+{
+    "Name": "Blue Candle",
+    "Product": "Blue Candle",
+    "SeedName": "Blue Candle Stem",
+    "SeedDescription": "Grows year round but cant stand the winter. takes 8 days to mature.",
+    "Type": "Flower",
+    "Seasons": ["spring", "summer", "fall"],
+    "Phases": [ 1, 1, 2, 2, 1 ],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+	{
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0
+    },
+    "SeedPurchasePrice": 80,
+    "SeedPurchaseRequirements": null,
+
+    "SeedNameLocalization":
+    { 
+		// "es": "",
+		"ko": "용신목 선인장 줄기",
+		//"de": "",
+		//"fr": "",
+		"hu": "Kék gyertya szár",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "стебель кактус Синяя свеча",
+		//"tr": "",
+		"zh": "蓝色蜡烛茎",
+        "uk": "Стебло миртиллокактуса"
+    },
+    "SeedDescriptionLocalization":
+    {
+    // "es": "",
+    "ko": "겨울을 제외하고 일년 내내 자랍니다. 완전히 자라는데 8일 걸립니다.",
+		//"de": "",
+		//"fr": "",
+		"hu": "Egész évben nő, de a telet nem bírja. 8 nap kell, hogy megérjen.",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "Растет во все времена года, кроме зимы. Это растение вырастает за 8 дней.",
+		//"tr": "",
+		"zh": "除冬季外，全年均可生长。成熟需要8天。",
+        "uk": "Росте в усі пори року, окрім зими. Потребує 8 днів, щоб вирости."
+    }  
+}

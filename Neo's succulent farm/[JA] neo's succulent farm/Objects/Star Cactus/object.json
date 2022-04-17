@@ -1,0 +1,46 @@
+{
+	"Name": "Star Cactus",
+	"Description": "Also known as sand dollar cactus.",
+	"Category": "Flower",
+	"CategoryTextOverride": "Succulent",
+	"CategoryColorOverride": "32, 188, 146, 255",
+	"Edibility": -300,
+	"Price": 215,
+	"IsColored": false,
+	"Recipe": null,
+	"GiftTastes":
+	{
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"]
+	},
+	  
+   	"NameLocalization":
+   	{ 
+		// "es": "",
+		"ko": "란봉옥",
+		//"de": "",
+		//"fr": "",
+		"hu": "Csillag kaktusz",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "Звездный Кактус",
+		//"tr": "",
+		"zh": "星仙人掌",
+        "uk": "Астрофітум"
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "난봉옥이라고 부릅니다.",
+		//"de": "",
+		//"fr": "",
+		"hu": "Másnéven homok dollár kaktusz.",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "Также известен, как кактус - песчаный доллар.",
+		//"tr": "",
+		"zh": "也被称为沙元仙人掌。",
+        "uk": "Також відомий як кактус - піщаний долар."
+    }  
+}

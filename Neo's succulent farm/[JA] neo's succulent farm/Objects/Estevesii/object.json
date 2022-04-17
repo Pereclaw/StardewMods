@@ -1,0 +1,46 @@
+{
+	"Name": "Estevesii",
+	"Description": "A long and yellow thorned cactus that sometimes grows pink flowers.",
+	"Category": "Flower",
+	"CategoryTextOverride": "Succulent",
+	"CategoryColorOverride": "32, 188, 146, 255",
+	"Edibility": -300,
+	"Price": 140,
+	"IsColored": false,
+	"Recipe": null,
+	"GiftTastes":
+  	{
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"]
+	},
+	  
+	"NameLocalization":
+	{ 
+		// "es": "",
+		"ko": "디스코",
+		//"de": "",
+		//"fr": "",
+		"hu": "Csővirágú kaktusz",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "кактус Estevesii",
+		//"tr": "",
+		"zh": "埃斯特韦西",
+        "uk": "Мелокактус"
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "길고 노란 가시 선인장은 종종 분홍색 꽃을 피웁니다.",
+		//"de": "",
+		//"fr": "",
+		"hu": "Egy hosszú, sárga tüskés kaktusz ami néha rózsaszín virágokat növeszt.",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "Длинный и желтый колючий кактус, который иногда выпускает розовые цветы.",
+		//"tr": "",
+		"zh": "一种又长又黄的带刺仙人掌，有时会开出粉红色的花朵。",
+        "uk": "Довгий і жовтий шипуватий кактус, на якому іноді ростуть рожеві квіти."
+    }  
+}

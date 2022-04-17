@@ -1,0 +1,46 @@
+{
+	"Name": "Zebra Cactus",
+	"Description": "This striped cactus is mistaken for an aloe but is actually of a different kind.",
+	"Category": "Flower",
+	"CategoryTextOverride": "Succulent",
+	"CategoryColorOverride": "32, 188, 146, 255",
+	"Edibility": -300,
+	"Price": 215,
+	"IsColored": false,
+	"Recipe": null,
+	"GiftTastes":
+	{
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"]
+	},
+	  
+	"NameLocalization":
+	{ 
+		// "es": "",
+		"ko": "십이지권",
+		//"de": "",
+		//"fr": "",
+		"hu": "Szemölcsliliom",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "кактус зебра",
+		//"tr": "",
+		"zh": "斑马仙人掌",
+        "uk": "Гавортія"
+	},
+	"DescriptionLocalization":
+	{
+		// "es": "",
+		"ko": "이 줄무늬 선인장은 알로에로 착각되기도 하지만 실제론 다른 종류입니다.",
+		//"de": "",
+		//"fr": "",
+		"hu": "Ezt a csíkos kaktuszt össze szokták téveszteni az aloével, de valójában más fajták.",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "Этот полосатый кактус иногда ошибочно принимают за алоэ, но на самом деле это другой вид.",
+		//"tr": "",
+		"zh": "这种条纹仙人掌被误认为是芦荟，但实际上是不同的种类。",
+        "uk": "Цей смугастий кактус інколи помилково сприймають за алое, але насправді це інший вид."
+	}  
+}

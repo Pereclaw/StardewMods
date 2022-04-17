@@ -1,0 +1,53 @@
+{
+    "Name": "Sea Bean Cactus",
+    "Product": "Sea Bean",
+    "SeedName": "Sea Bean Cactus Stem",
+    "SeedDescription": "Grows in the summer and the fall. takes 9 days to mature. Keeps producing after first harvest.",
+    "Type": "Fruit",    
+    "Seasons": ["summer", "fall"],
+    "Phases": [ 1, 2, 3, 2, 1 ],
+    "RegrowthPhase": 5,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+	{
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 2,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0
+    },
+    "SeedPurchasePrice": 80,
+    "SeedPurchaseRequirements": null,
+
+    "SeedNameLocalization":
+    { 
+		// "es": "",
+		"ko": "바다 콩 선인장 줄기",
+		//"de": "",
+		//"fr": "",
+		"hu": "Tengeri bab kaktusz szár",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "стебель Кактус морской фасоли",
+		//"tr": "",
+		"zh": "海豆仙人掌茎",
+        "uk": "Стебло склянки"
+    },
+    "SeedDescriptionLocalization":
+    {
+    // "es": "",
+    "ko": "여름과 가을에 자랍니다. 완전히 자라는데 6일 걸립니다. 자란 후 계속 수확할 수 있습니다.",
+		//"de": "",
+		//"fr": "",
+		"hu": "Nyáron és ősszel nő. 6 nap kell, hogy megérjen. Az első aratást követően folyamatosan terem.",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "Растет во все времена года, кроме зимы. Это растение вырастает за 6 дней. Продолжает приносить плоды после сбора первого урожая.",
+		//"tr": "",
+		"zh": "它生长在夏季和秋季。 成熟需要6天。 收获一次后可以继续收获。",
+        "uk": "Росте влітку та восени. Потребує 9 днів, щоб вирости. Продовжує плодоносити після першого збору врожаю."
+    }  
+}

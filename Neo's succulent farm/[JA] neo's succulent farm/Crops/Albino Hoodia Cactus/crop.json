@@ -1,0 +1,53 @@
+{
+    "Name": "Albino Hoodia Cactus",
+    "Product": "Yellow Sweet ex Decne",
+    "SeedName": "A.Hoodia Cactus stem",
+    "SeedDescription": "melanin low cactus Grows year round but cant stand the winter. takes 9 days to mature. keeps producing after first harvest.",
+    "Type": "Flower",
+    "Seasons": ["spring", "summer", "fall"],
+    "Phases": [ 1, 1, 2, 3, 2 ],
+    "RegrowthPhase": 5,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+	{
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 4,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0
+    },
+    "SeedPurchasePrice": 120,
+	"SeedPurchaseRequirements": null,
+	
+    "SeedNameLocalization":
+    { 
+		// "es": "",
+		"ko": "알비노 후디아 선인장 줄기",
+		//"de": "",
+		//"fr": "",
+		"hu": "Albínó Hoodia kaktusz szár",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "стебель альбинос Худия Кактус",
+		//"tr": "",
+		"zh": "蝴蝶亚仙人掌茎",
+        "uk": "Стебло альбінос гудії"
+    },
+    "SeedDescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "겨울을 제외하고 일년 내내 자랍니다. 완전히 자라는데 9일 걸립니다. 자란 후 계속 수확할 수 있습니다.",
+		//"de": "",
+		//"fr": "",
+		"hu": "Egész évben nő, de a telet nem bírja. 9 nap kell, hogy megérjen. Az első aratást követően folyamatosan terem.",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "Растет во все времена года, кроме зимы. Это растение вырастает за 9 дней. Продолжает приносить плоды после сбора первого урожая.",
+		//"tr": "",
+		"zh": "除冬季外，全年均可生长。成熟需要9天。 收获一次后可继续收获。",
+        "uk": "Росте в усі пори року, окрім зими. Потребує 9 днів, щоб вирости. Продовжує плодоносити після першого збору врожаю."
+    }  
+}
