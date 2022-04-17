@@ -1,0 +1,46 @@
+{
+	"Name": "Wax Agave",
+	"Description": "Native to rocky areas small and prickly pink succulent.",
+	"Category": "Flower",
+	"CategoryTextOverride": "Succulent",
+	"CategoryColorOverride": "32, 188, 146, 255",
+	"Edibility": -300,
+	"Price": 180,
+	"IsColored": false,
+	"Recipe": null,
+	"GiftTastes":
+	{
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"]
+	},
+	  
+	"NameLocalization":
+	{ 
+		// "es": "",
+		"ko": "왁스 아가베",
+		//"de": "",
+		//"fr": "",
+		"hu": "Viasz agávé",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "агава",
+		//"tr": "",
+		"zh": "蜡龙舌兰",
+        "uk": "Агава"
+	},
+	"DescriptionLocalization":
+	{
+		// "es": "",
+		"ko": "바위 지형에서 자라는 작고 가시가 많은 분홍색 다육식물.",
+		//"de": "",
+		//"fr": "",
+		"hu": "Sziklás vidékeken őshonos, kicsi és tüskés pozsgás növény.",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "Маленький и колючий розовый суккулент, растущий в скалистых районах.",
+		//"tr": "",
+		"zh": "原产于岩石地区的小而带刺的粉红色多肉植物。",
+        "uk": "Маленький та колючий рожевий сукулент, що росте в скелястих районах."
+	}  
+}

@@ -1,0 +1,53 @@
+{
+    "Name": "lipstick echeveria",
+    "Product": "lipstick echeveria",
+    "SeedName": "lipstick echeveria Stem",
+    "SeedDescription": "Grows year round but cant stand the winter. takes 8 days to mature.",
+    "Type": "Flower",
+    "Seasons": ["spring", "summer", "fall"],
+    "Phases": [ 1, 2, 2, 2, 1 ],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+	{
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0
+    },
+    "SeedPurchasePrice": 80,
+    "SeedPurchaseRequirements": null,
+
+    "SeedNameLocalization":
+    { 
+		// "es": "",
+		"ko": "립스틱 에케베리아 줄기",
+		//"de": "",
+		//"fr": "",
+		"hu": "rúzs echeveria szár",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "стебель помада эхеверия",
+		//"tr": "",
+		"zh": "拟石莲花属口红茎",
+        "uk": "Стебло ечеверії ліпстік"
+    },
+    "SeedDescriptionLocalization":
+    {
+    // "es": "",
+    "ko": "겨울을 제외하고 일년 내내 자랍니다. 완전히 자라는데 8일 걸립니다.",
+		//"de": "",
+		//"fr": "",
+		"hu": "Egész évben nő, de a telet nem bírja. 8 nap kell, hogy megérjen.",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "Растет во все времена года, кроме зимы. Это растение вырастает за 8 дней.",
+		//"tr": "",
+		"zh": "除冬季外，全年均可生长。成熟需要8天。",
+        "uk": "Росте в усі пори року, окрім зими. Потребує 8 днів, щоб вирости."
+    }  
+}

@@ -1,0 +1,46 @@
+{
+	"Name": "Sea Bean",
+	"Description": "These seeds can be found floating in the sea.",
+	"Category": "Fruit",
+	"CategoryTextOverride": "Succulent",
+	"CategoryColorOverride": "32, 188, 146, 255",
+	"Edibility": 15,
+	"Price": 40,
+	"IsColored": false,
+	"Recipe": null,
+	"GiftTastes":
+	{
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"]
+	},
+	  
+   	"NameLocalization":
+   	{ 
+		// "es": "",
+		"ko": "씨 빈",
+		//"de": "",
+		//"fr": "",
+		"hu": "Tengeri bab",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "Морская фасоль",
+		//"tr": "",
+		"zh": "海豆",
+        "uk": "Склянка"
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "이 씨앗은 바다를 떠다니기도 합니다.",
+		//"de": "",
+		//"fr": "",
+		"hu": "Ezeket a magvakat a tenger felszínén lebegve lehet fellelni.",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "Эти семена можно найти плавающими в море.",
+		//"tr": "",
+		"zh": "这些种子可以漂浮在海中。",
+        "uk": "Ці насіння можна знайти плавучими в морі."
+    }  
+}

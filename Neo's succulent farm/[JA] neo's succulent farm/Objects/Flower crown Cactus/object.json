@@ -1,0 +1,46 @@
+{
+	"Name": "Flower crown Cactus",
+	"Description": "This white and pink thorned cactus can grow flower crowns.",
+	"Category": "Flower",
+	"CategoryTextOverride": "Succulent",
+	"CategoryColorOverride": "32, 188, 146, 255",
+	"Edibility": -300,
+	"Price": 215,
+	"IsColored": false,
+	"Recipe": null,
+	"GiftTastes":
+  	{
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"]
+	},
+	  
+	"NameLocalization":
+	{ 
+		// "es": "",
+		"ko": "화관 선인장",
+		//"de": "",
+		//"fr": "",
+		"hu": "Virágkoronás kaktusz",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "цветок корона кактус",
+		//"tr": "",
+		"zh": "花冠仙人掌",
+        "uk": "Короноквітка"
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "화관을 쓴 것 같은 흰색과 분홍색의 가시 선인장.",
+		//"de": "",
+		//"fr": "",
+		"hu": "Ez a fehér és rózsaszín tüskés kaktusz virágkoronákat tud növeszteni.",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "Этот бело-розовый колючий кактус может отращивать цветочные короны.",
+		//"tr": "",
+		"zh": "这种粉白的带刺仙人掌可以长出花冠。",
+        "uk": "Цей біло-рожевий колючий кактус може вирощувати квіткові крони."
+    }  
+}

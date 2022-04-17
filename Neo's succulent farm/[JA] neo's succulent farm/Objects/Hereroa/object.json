@@ -1,0 +1,46 @@
+{
+	"Name": "Hereroa",
+	"Description": "these purple colored succulents can grow a flower between their thick leaves.",
+	"Category": "Flower",
+	"CategoryTextOverride": "Succulent",
+	"CategoryColorOverride": "32, 188, 146, 255",
+	"Edibility": -300,
+	"Price": 195,
+	"IsColored": false,
+	"Recipe": null,
+	"GiftTastes":
+  	{
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"]
+	},
+	  
+	"NameLocalization": 
+	{ 
+		// "es": "",
+		"ko": "헤레로아",
+		//"de": "",
+		//"fr": "",
+		"hu": "hereroa kaktusz",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "кактус герероа",
+		//"tr": "",
+		"zh": "龙骨角",
+        "uk": "Герея"
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "이 자주색 다육식물은 두꺼운 잎 사이에 꽃을 피우기도 합니다.",
+		//"de": "",
+		//"fr": "",
+		"hu": "Ezek a lila színű pozsgás növények képesek virágot növeszteni vastag leveleik között.",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "Эти пурпурные суккуленты могут вырастить цветок между своими толстыми листьями.",
+		//"tr": "",
+		"zh": "这些紫色的多肉植物可以在它们厚厚的叶子之间开出一朵花。",
+        "uk": "Ці фіолетові сукуленти можуть виростити квітку між своїми товстими листками."
+    }  
+}

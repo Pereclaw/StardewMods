@@ -1,0 +1,46 @@
+{
+	"Name": "Aloe Leaf",
+	"Description": "Plum and thick leaves with healing properties.",
+	"Category": "Fruit",
+	"CategoryTextOverride": "Succulent",
+	"CategoryColorOverride": "32, 188, 146, 255",
+	"Edibility": 72,
+	"Price": 120,
+	"IsColored": false,
+	"Recipe": null,
+	"GiftTastes":
+	{
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"]
+	},
+	
+	"NameLocalization":
+	{ 
+		//"es": "",
+		"ko": "알로에 잎",
+		//"de": "",
+		//"fr": "",
+		"hu": "aloé",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "алоэ.",
+		//"tr": "",
+		"zh": "芦荟叶",
+        "uk": "Листок алое"
+    },
+    "DescriptionLocalization":
+    {
+        //"es": "",
+        "ko": "열매와 두꺼운 잎사귀는 치유하는 성질이 있습니다.",
+		//"de": "",
+		//"fr": "",
+		"hu": "Szilva és vastag levelek gyógyító tulajdonságokkal.",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "Пухлые листья с целебными свойствами.",
+		//"tr": "",
+		"zh": "果实和厚叶有疗效。",
+        "uk": "Пухке і товсте листя з цілющими властивостями."
+    }  
+}

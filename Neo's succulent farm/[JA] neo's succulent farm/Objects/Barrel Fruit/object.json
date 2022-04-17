@@ -1,0 +1,46 @@
+{
+	"Name": "Barrel Fruit",
+	"Description": "The fleshy center is sweet while the seeds are best served roasted.",
+	"Category": "Fruit",
+	"CategoryTextOverride": "Succulent",
+	"CategoryColorOverride": "32, 188, 146, 255",
+	"Edibility": 15,
+	"Price": 130,
+	"IsColored": false,
+	"Recipe": null,
+	"GiftTastes":
+  	{
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"]
+	},
+	  
+	"NameLocalization":
+	{ 
+		// "es": "",
+		"ko": "원통 선인장",
+		//"de": "",
+		//"fr": "",
+		"hu": "Hordó kaktusz",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "бочковый кактус",
+		//"tr": "",
+		"zh": "桶果",
+        "uk": "Бочковий фрукт"
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "씨앗을 품은 과육은 달콤하며, 구워 먹을 때 가장 맛있습니다.",
+		//"de": "",
+		//"fr": "",
+		"hu": "A húsos belső édes, amíg a magok sütve a legjobbak.",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "Его мякоть сладкая, а семена лучше всего подавать жареными.",
+		//"tr": "",
+		"zh": "当种子烤的最好的时候，肉质中心是甜的。",
+        "uk": "М’ясиста середина солодка, а насіння найкраще подавати смаженим."
+    }  
+}

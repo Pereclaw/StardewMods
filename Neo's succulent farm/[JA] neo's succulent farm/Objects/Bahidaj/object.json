@@ -1,0 +1,46 @@
+{
+	"Name": "Bahidaj",
+	"Description": "An unknown fact about the Saguaro is that it grows this sweet fruit.",
+	"Category": "Fruit",
+	"CategoryTextOverride": "Succulent",
+	"CategoryColorOverride": "32, 188, 146, 255",
+	"Edibility": 18,
+	"Price": 45,
+	"IsColored": false,
+	"Recipe": null,
+	"GiftTastes":
+ 	{
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"]
+	},
+	
+	"NameLocalization":
+	{ 
+		// "es": "",
+		"ko": "바히 다즈",
+		//"de": "",
+		//"fr": "",
+		"hu": "Bahidaj",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "Bahidaj",
+		//"tr": "",
+		"zh": "巴达兹",
+        "uk": "Багідай"
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "잘 알려지진 건 아니지만, 사실 사와로 선인장은 달콤한 열매를 맺습니다.",
+		//"de": "",
+		//"fr": "",
+		"hu": "Kevésbé ismert tény a kandeláberkaktuszról, hogy ezt az édes gyümölcsöt növeszti.",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "Неизвестный факт о Сагуаро - на нем вырастает такой сладкий фрукт.",
+		//"tr": "",
+		"zh": "关于巨柱仙人掌的一个鲜为人知的事实是它能长出这种甜美的水果。",
+        "uk": "Невідомий факт про карнегію - на ній росте цей солодкий плід."
+    }  
+}

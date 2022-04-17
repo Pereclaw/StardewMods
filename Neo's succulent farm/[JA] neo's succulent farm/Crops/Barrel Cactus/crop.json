@@ -1,0 +1,53 @@
+{
+    "Name": "Barrel Cactus",
+    "Product": "Barrel Fruit",
+    "SeedName": "Barrel Cactus stem",
+    "SeedDescription": "Grows in the fall and summer. takes 7 days to mature. keeps producing after first harvest.",
+    "Type": "Fruit",
+    "Seasons": ["spring", "summer", "fall"],
+    "Phases": [ 1, 1, 2, 2, 1 ],
+    "RegrowthPhase": 3,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+	{
+        "MinimumPerHarvest": 2,
+        "MaximumPerHarvest": 4,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0
+    },
+    "SeedPurchasePrice": 70,
+	"SeedPurchaseRequirements": null,
+	
+    "SeedNameLocalization":
+    { 
+		// "es": "",
+		"ko": "원통 선인장 줄기",
+		//"de": "",
+		//"fr": "",
+		"hu": "Hordó kaktusz szár",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "стебель бочковый кактус",
+		//"tr": "",
+		"zh": "桶形仙人掌茎",
+        "uk": "Стебло бочкового кактуса"
+    },
+    "SeedDescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "여름과 가을에 자랍니다. 완전히 자라는데 7일 걸립니다. 자란 후 계속 수확할 수 있습니다.",
+		//"de": "",
+		//"fr": "",
+		"hu": "Ősszel és nyáron nő. 7 nap kell, hogy megérjen. Az első aratást követően folyamatosan terem.",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "Растет во все времена года, кроме зимы. Это растение вырастает за 7 дней. Продолжает приносить плоды после сбора первого урожая.",
+		//"tr": "",
+		"zh": "在秋季和夏季生长。 需要7天才能成熟。收获一次后可继续收获。",
+        "uk": "Росте в усі пори року, окрім зими. Потребує 7 днів, щоб вирости. Продовжує плодоносити після першого збору врожаю."
+    }  
+}

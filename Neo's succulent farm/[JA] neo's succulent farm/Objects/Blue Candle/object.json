@@ -1,0 +1,46 @@
+{
+	"Name": "Blue Candle",
+	"Description": "This cactus only begins branching after many years.",
+	"Category": "Flower",
+	"CategoryTextOverride": "Succulent",
+	"CategoryColorOverride": "32, 188, 146, 255",
+	"Edibility": -300,
+	"Price": 180,
+	"IsColored": false,
+	"Recipe": null,
+	"GiftTastes":
+  	{
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"]
+	},
+	 
+	"NameLocalization":
+	{ 
+		// "es": "",
+		"ko": "용신목 선인장",
+		//"de": "",
+		//"fr": "",
+		"hu": "Kék gyertya kaktusz",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "кактус Синяя свеча",
+		//"tr": "",
+		"zh": "蓝色蜡烛",
+        "uk": "Миртиллокактус"
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "이 선인장은 수 년 후에야 가지를 치기 시작합니다.",
+		//"de": "",
+		//"fr": "",
+		"hu": "Ez a kaktusz csak több év után kezd hajtani.",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "Этот кактус начинает разветвляться только через много лет.",
+		//"tr": "",
+		"zh": "这种仙人掌在多年后才开始分枝。",
+        "uk": "Цей кактус починає розгалужуватися лише через багато років."
+    }  
+}

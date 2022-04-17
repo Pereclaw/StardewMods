@@ -1,0 +1,44 @@
+{
+	"Name": "Yellow Sweet ex Decne",
+	"Description": "This melanin lacking cactus flower smells like rot.",
+	"Category": "Flower",
+	"Edibility": -10,
+	"Price": 75,
+	"IsColored": false,
+	"Recipe": null,
+	"GiftTastes":
+  	{
+    "DisLike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"]
+	},
+	  
+	"NameLocalization":
+	{ 
+		// "es": "",
+		"ko": "알비노 후디아 선인장 꽃",
+		//"de": "",
+		//"fr": "",
+		"hu": "sárga édes virág",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "желтый сладкий цветок",
+		//"tr": "",
+		"zh": "黄色蝴蝶亚仙人掌",
+        "uk": "Жовта солодка квітка"
+	},
+	"DescriptionLocalization":
+	{
+		// "es": "",
+		"ko": "색이 옅은 이 선인장 꽃에선 썩은 것 같은 냄새가 납니다.",
+		//"de": "",
+		//"fr": "",
+		"hu": "Ennek a melanin hiányos kaktusznak rothadó szaga van.",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		"ru": "Цветок этого безмеланинового кактуса пахнет гнилью.",
+		//"tr": "",
+		"zh": "这种缺乏黑色素的仙人掌花的味道像腐烂了一样。",
+        "uk": "Квітка цього безмеланінового кактуса пахне гниллю."
+	}  
+}
