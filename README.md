@@ -60,6 +60,7 @@ TMXL Map Toolkit                  | [∆](TMXLoader/i18n/uk.json)               
 Tractor Mod                       | [✓](TractorMod/i18n/uk.json)                                   | [Nexus](https://www.nexusmods.com/stardewvalley/mods/1401)                 | [![@ChulkyBow](https://avatars.githubusercontent.com/u/83290351?s=36)](https://github.com/ChulkyBow)
 UI Info Suite                     | [∆](UIInfoSuite/i18n/uk.json)                                  | [↑](https://github.com/cdaragorn/Ui-Info-Suite/pull/85)                   |
 UI Info Suite 2                   | [✓](UIInfoSuite2/i18n/uk.json)                                 | [Github](https://github.com/Annosz/UIInfoSuite2/releases)                  |
+WarpNetwork                       | [✓](WarpNetwork/i18n/uk.json)                                  | [↑]()                                                                     | [![@ChulkyBow](https://avatars.githubusercontent.com/u/83290351?s=36)](https://github.com/ChulkyBow)
 ## Я хочу допомогти з перекладом, але як я можу це зробити?
 
 #### Треба навчитися користуватися платформою Github
