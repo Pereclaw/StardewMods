@@ -1,0 +1,7 @@
+{
+  "big-craftable.HarvestStatue.name": "Урожайна статуетка",
+  "big-craftable.HarvestStatue.description": "Наповнена магією статуетка, що приваблює Джунімо. Якщо розмістити її в приміщенні, Джунімо зберуть для вас урожай поблизу неї.",
+
+  "crafting.HarvestStatueRecipe.name": "Урожайна статуетка",
+  "crafting.HarvestStatueRecipe.description": "Створює врожайну статуетку."
+}
