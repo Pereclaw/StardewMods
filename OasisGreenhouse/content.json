@@ -1,0 +1,131 @@
+{
+    "Format": "1.8",
+    "ConfigSchema": {
+        "usecellar": {
+            "AllowValues": "true, false",
+            "Default": true
+        }
+    },
+    "DynamicTokens": [
+        {
+            "Name": "filename",
+            "Value":" greenhouse",
+            "When": {
+                "usecellar": true
+            }
+        },
+        {
+            "Name": "filename",
+            "Value": "greenhouse_withoutcellar",
+            "When": {
+                "usecellar": false
+            }
+        }
+    ],
+    "Changes": [
+        //map
+        {
+            "Action": "Load",
+            "Target": "Maps/Greenhouse",
+            "FromFile": "assets/{{filename}}.tbin"
+        },
+        //strings
+        //default
+        {
+            "Action": "EditData",
+            "Target": "Strings/StringsFromMaps",
+            "Entries": {
+                "dngh.1": "This little plant is slow-growing, but with lots of care and attention, it will eventually tower over the rest.",
+                "dngh.2": "\"The fruit of the Averrhoa carambola tree is cultivated in hot, dry climates. Seeds are expensive and rare, but the wine the fruit produces is a delicacy and can sell for up to 6300g.\"",
+                "dngh.3": "Calvin the Cactus is looking very handsome today.",
+                "dngh.4": "It's filled with fresh crops.",
+                "dngh.5": "This place needs a bit of a tidy-up...",
+                "dngh.6": "It's filled with old batches of wine, slowly aging.",
+                "dngh.7": "The shelves are stocked with various wines, beers, and spirits. Grandpa once used this cellar as a bar where all the townspeople could come and taste the latest batch.",
+                "dngh.8": "-- ORDERS --^Lewis : x4 casks^Stardrop Saloon : x15 casks^Pam : a nice bottle - the good stuff",
+                "dngh.9": "Treasure! Well, savings... Grandpa used to make a lot of money exporting his world-famous starfruit wine.",
+                "dngh.10": "These barrels are hiding Grandpa's very last batch of starfruit wine. He always said it wouldn't do until it was aged 100 years. Then it would be the best wine anyone's ever tasted.",
+                "dngh.11": "A perfect set-up for a quiet, romantic date.",
+                "dngh.12": "The crystal radiates a mysterious energy...",
+                "dngh.13": "It's a book of poems. \"...and the last door closed at 4 A.M. and the last telephone slammed at the wall in reply...\"#\"...and the last furnished room emptied down to the last piece of mental furniture, a yellow paper rose twisted on a wire hanger in the closet...\"#\"...and even that imaginary, nothing but a hopeful little bit of hallucination--\"",
+                "dngh.14": "What's the point of a magical private oasis without a toy sailboat to splash around with?#...#Exactly.",
+                "dngh.15": "A beautiful spot for a quiet date.",
+                "dngh.16": "This tree is huge and ancient. Grandpa built the whole greenhouse around it. He used to say its roots linked {{FarmName}} Farm to the entire town."
+            }
+        },
+        //non-alcoholic version
+        {
+            "Action": "EditData",
+            "Target": "Strings/StringsFromMaps",
+            "Entries": {
+                "dngh.1": "This little plant is slow-growing, but with lots of care and attention, it will eventually tower over the rest.",
+                "dngh.2": "\"The fruit of the Averrhoa carambola tree is cultivated in hot, dry climates. Seeds are expensive and rare, but the juice the fruit produces is a delicacy and can sell for up to 6300g.\"",
+                "dngh.3": "Calvin the Cactus is looking very handsome today.",
+                "dngh.4": "It's filled with fresh crops.",
+                "dngh.5": "This place needs a bit of a tidy-up...",
+                "dngh.9": "Treasure! Well, savings... Grandpa used to make a lot of money exporting his world-famous starfruit jelly.",
+                "dngh.10": "These barrels are hiding Grandpa's very last batch of starfruit jelly. He always said it wouldn't do until it was aged 100 years. Then it would be the best jelly anyone's ever tasted.",
+                "dngh.11": "A perfect set-up for a quiet, romantic date.",
+                "dngh.12": "The crystal radiates a mysterious energy...",
+                "dngh.13": "It's a book of poems. \"...and the last door closed at 4 A.M. and the last telephone slammed at the wall in reply...\"#\"...and the last furnished room emptied down to the last piece of mental furniture, a yellow paper rose twisted on a wire hanger in the closet...\"#\"...and even that imaginary, nothing but a hopeful little bit of hallucination--\"",
+                "dngh.14": "What's the point of a magical private oasis without a toy sailboat to splash around with?#...#Exactly.",
+                "dngh.15": "A beautiful spot for a quiet date.",
+                "dngh.16": "This tree is huge and ancient. Grandpa built the whole greenhouse around it. He used to say its roots linked {{FarmName}} Farm to the entire town."
+            },
+            "When": {
+                "usecellar": false
+            }
+        },
+        //translations
+		//Ukrainian version
+		{
+			"Action": "EditData",
+            "Target": "Strings/StringsFromMaps",
+            "Entries": {
+                "dngh.1": "Ця маленька рослина повільно росте, проте з великою турботою та увагою вона згодом вивищиться над іншими.",
+                "dngh.2": "\"Плоди дерева карамболи культивуються в спекотному сухому кліматі. Насіння дороге й рідкісне, але вино, яке виготовляють із плодів, є делікатесом і може продаватись до 6300 з.\"",
+                "dngh.3": "Кактус Келвін сьогодні дуже гарний.",
+                "dngh.4": "Воно заповнене свіжим врожаєм.",
+                "dngh.5": "Це місце потребує трохи догляду...",
+                "dngh.6": "Воно наповнене старими партіями вина, які повільно бродять.",
+                "dngh.7": "Полиці укомплектовані різноманітними винами, пивом та алкогольними напоями. Дідусь колись використовував цей льох як бар, куди всі містяни могли приходити і скуштувати останньої партії.",
+                "dngh.8": "-- ЗАМОВЛЯННЯ --^Льюїс : x4 барила^Салун Зорекрапля : x15 барил^Пем : пляшка хорошого питва",
+                "dngh.9": "Скарби! Тобто, накопичення... Колись дідусь заробляв багато грошей, експортуючи своє всесвітньо відоме вино з карамболи.",
+                "dngh.10": "У цих барилах захована остання дідусева партія вина з карамболи. Він завжди казав, що вона не побачить світ, поки вино не сягне 100 років. Тоді це було б найкраще вино, яке будь-хто коли-небудь куштував.",
+                "dngh.11": "Ідеальний варіант для спокійного романтичного побачення.",
+                "dngh.12": "Цей кристал випромінює таємничу енергію...",
+                "dngh.13": "Це книга з віршами. \"...а останні двері зачинялися о 4 ранку. і останній телефон у відповідь грюкнув об стіну...\"#\"...і остання вмебльована кімната спорожніла до останнього шматка духовних меблів, жовта паперова троянда, скручена на дротяних плечиках в шафі...\"#\"...і навіть якщо це уявне, це не що інше, як маленька галюцинація, що дає надію--\"",
+                "dngh.14": "Який сенс у чарівному приватному оазисі без іграшкового вітрильника, з яким можна поплескатися?#...#Точно.",
+                "dngh.15": "Прекрасне місце для спокійного побачення.",
+                "dngh.16": "Це дерево величезне і стародавнє. Навколо нього дідусь побудував цілу теплицю. Він казав, що його коріння пов'язує ферму {{FarmName}} з усім містом."
+            },
+			"When": {
+                "language": "uk"
+            }
+		},
+		//Ukrainian non-alcoholic
+		{
+            "Action": "EditData",
+            "Target": "Strings/StringsFromMaps",
+            "Entries": {
+                "dngh.1": "Ця маленька рослина повільно росте, проте з великою турботою та увагою вона згодом вивищиться над іншими.",
+                "dngh.2": "\"Плоди дерева карамболи культивуються в спекотному сухому кліматі. Насіння дороге й рідкісне, але вино, яке виготовляють із плодів, є делікатесом і може продаватись до 6300 з.\"",
+                "dngh.3": "Кактус Келвін сьогодні дуже гарний.",
+                "dngh.4": "Воно заповнене свіжим врожаєм.",
+                "dngh.5": "Це місце потребує трохи догляду...",
+                "dngh.9": "Скарби! Тобто, накопичення... Раніше дідусь заробляв багато грошей на експорті свого всесвітньо відомого желе з карамболи.",
+                "dngh.10": "У цих барилах захована остання дідусева партія желе з карамболи. Він завжди казав, що вона не побачить світ, поки желе не сягне 100 років. Тоді це було б найкраще вино, яке будь-хто коли-небудь куштував.",
+                "dngh.11": "Ідеальний варіант для спокійного романтичного побачення.",
+                "dngh.12": "Цей кристал випромінює таємничу енергію...",
+                "dngh.13": "Це книга з віршами. \"...а останні двері зачинялися о 4 ранку. і останній телефон у відповідь грюкнув об стіну...\"#\"...і остання вмебльована кімната спорожніла до останнього шматка духовних меблів, жовта паперова троянда, скручена на дротяних плечиках в шафі...\"#\"...і навіть якщо це уявне, це не що інше, як маленька галюцинація, що дає надію--\"",
+                "dngh.14": "Який сенс у чарівному приватному оазисі без іграшкового вітрильника, з яким можна поплескатися?#...#Точно.",
+                "dngh.15": "Прекрасне місце для спокійного побачення.",
+                "dngh.16": "Це дерево величезне і стародавнє. Навколо нього дідусь побудував цілу теплицю. Він казав, що його коріння пов'язує ферму {{FarmName}} з усім містом."
+            },
+            "When": {
+                "usecellar": false,
+				        "language": "uk"
+            }
+        }
+    ]
+}
