@@ -1,0 +1,358 @@
+{
+    "Format": "1.8",
+    "ConfigSchema": {
+        "enableGrass": {
+            "AllowValues": "true, false",
+            "Default": "true"
+        },
+        "enableDigSpot": {
+            "AllowValues": "true, false",
+            "Default": "true"
+        },
+        "enableMiniMap":{
+            "AllowValues":"true, false",
+            "Default":"true"
+        },
+        "winterTilledSoil":{
+            "AllowValues":"brown,blue",
+            "Default":"brown"
+        }
+    },
+    "Changes": [
+        //1.5 island tilsheets
+        {
+            "Action": "EditImage",
+            "Target": "Maps/island_tilesheet_1, Maps/island_tilesheet_2, Maps/spring_island_tilesheet_1, Maps/summer_island_tilesheet_1, Maps/fall_island_tilesheet_1, Maps/winter_island_tilesheet_1",
+            "FromFile": "assets/{{Target}}.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/SuspensionBridge",
+            "FromFile": "assets/{{Target}}.png"
+        },
+        //beach
+        {
+            "Action": "EditImage",
+            "Target": "Maps/spring_beach, Maps/summer_beach, Maps/fall_beach, Maps/winter_beach",
+            "FromFile": "assets//{{Target}}.png"
+        },
+	    //beach translations
+        {
+            "Action": "EditImage",
+            "Target": "Maps/spring_beach, Maps/summer_beach, Maps/fall_beach, Maps/winter_beach",
+            "FromFile": "assets//{{Target}}_uk.png",
+			"When": { "Language": "uk" }
+        },
+        //bushes
+        {
+            "Action": "EditImage",
+            "Target": "TileSheets/bushes",
+            "FromFile": "assets/{{Target}}.png"
+        },
+        //cursors overlay
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/Cursors, LooseSprites/Cursors2",
+            "FromFile": "assets/{{Target}}.png",
+            "PatchMode": "Overlay"
+        },
+        //cursors overlay translations
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/Cursors",
+            "FromFile": "assets/{{Target}}_uk.png",
+            "PatchMode": "Overlay",
+			"When": { "Language": "uk" }
+		},
+        //cursors water
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/Cursors",
+            "FromFile": "assets/{{Target}}_water.png",
+            "PatchMode": "Replace",
+            "ToArea": {
+                "X": 0,
+                "Y": 2000,
+                "Width": 640,
+                "Height": 256
+            }
+        },
+        // debris
+        {
+            "Action":"EditImage",
+            "Target":"Maps/springobjects",
+            "FromFile":"assets/{{Target}}.png",
+            "PatchMode":"Overlay"
+        },
+        //desert tiles
+        {
+            "Action": "EditImage",
+            "Target": "Maps/DesertTiles, Maps/DesertTiles_Extended",
+            "FromFile": "assets/{{Target}}.png",
+            "PatchMode": "Overlay"
+        },
+		//desert tiles translations
+        {
+            "Action": "EditImage",
+            "Target": "Maps/DesertTiles",
+            "FromFile": "assets/{{Target}}_uk.png",
+            "PatchMode": "Overlay",
+			"When": { "Language": "uk" }
+		},
+        //desert tiles palm tree
+        {
+            "Action": "EditImage",
+            "Target": "Maps/DesertTiles",
+            "FromFile": "assets/{{Target}}_tree.png",
+            "PatchMode": "Replace",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 48,
+                "Height": 48
+            },
+            "ToArea": {
+                "X": 0,
+                "Y": 112,
+                "Width": 48,
+                "Height": 48
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Maps/DesertTiles",
+            "FromFile": "assets/{{Target}}_tree.png",
+            "PatchMode": "Replace",
+            "FromArea": {
+                "X": 16,
+                "Y": 48,
+                "Width": 16,
+                "Height": 32
+            },
+            "ToArea": {
+                "X": 16,
+                "Y": 160,
+                "Width": 16,
+                "Height": 32
+            }
+        },
+        //desert caravan shop
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/temporary_sprites_1",
+            "FromFile": "assets/{{Target}}.png",
+            "PatchMode": "Overlay"
+        },
+        //dig spot
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/Cursors",
+            "FromFile": "assets/{{Target}}_digSpot.png",
+            "PatchMode": "Replace",
+            "ToArea": {
+                "X": 368,
+                "Y": 32,
+                "Width": 64,
+                "Height": 16
+            },
+            "When": {
+                "enableDigSpot": "true",
+                "Season": "spring, summer, fall"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/Cursors",
+            "PatchMode": "Replace",
+            "FromFile": "assets/{{Target}}_digSpot_winter.png",
+            "ToArea": {
+                "X": 368,
+                "Y": 32,
+                "Width": 64,
+                "Height": 16
+            },
+            "When": {
+                "enableDigSpot": "true",
+                "Season": "winter"
+            }
+        },
+        //fence (buildable)
+        {
+            "Action":"EditImage",
+            "Target":"LooseSprites/Fence1",
+            "FromFile":"assets/LooseSprites/{{season}}_Fence1.png"
+        },
+        //festivals overlay
+        {
+            "Action": "EditImage",
+            "Target": "Maps/Festivals",
+            "FromFile": "assets/{{Target}}.png",
+            "PatchMode": "Overlay"
+        },
+        //grass
+        {
+            "Action": "EditImage",
+            "Target": "TerrainFeatures/grass",
+            "FromFile": "assets/{{Target}}.png",
+            "When": {
+                "enableGrass": "true"
+            }
+        },
+        //hoeDirt
+        {
+            "Action": "EditImage",
+            "Target": "TerrainFeatures/hoeDirt, TerrainFeatures/hoeDirtDark",
+            "FromFile": "assets/{{Target}}.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "TerrainFeatures/hoeDirt, TerrainFeatures/hoeDirtSnow",
+            "FromFile": "assets/TerrainFeatures/hoeDirtLight.png",
+            "When": {
+                "Season": "summer, winter"
+            }
+        },
+        {
+            "Action":"EditImage",
+            "Target":"TerrainFeatures/hoeDirtSnow",
+            "FromFile":"assets/{{Target}}.png",
+            "When":{
+                "winterTilledSoil":"blue"
+            }
+        },
+        //minimap
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/map",
+            "FromFile": "assets/LooseSprites/{{season}}_map.png",
+            "When": {
+                "enableMiniMap":"true"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/map",
+            "FromFile": "assets/LooseSprites/{{season}}_map_sve.png",
+            "When":{                
+                "enableMiniMap":"true",
+                "HasMod": "FlashShifter.StardewValleyExpandedCP"
+            }
+        },
+        //minimap grandpa's farm edit
+        {
+            "Action":"EditImage",
+            "Target":"LooseSprites/map",
+            "FromFile":"assets/LooseSprites/{{season}}_map_grandpasfarm.png",
+            "PatchMode":"Overlay",
+            "ToArea":{"X": 58, "Y": 51, "Width": 91, "Height": 59},
+            "When":{
+                "enableMiniMap":"true",
+                "FarmType":"Standard",
+                "HasMod":"flashshifter.GrandpasFarm"
+            }
+        },
+        //minimap boarding house edit
+        {
+            "Action":"EditImage",
+            "Target":"LooseSprites/map",
+            "PathMode":"Overlay",
+            "FromFile":"assets/LooseSprites/{{season}}_map_boardinghouse.png",
+            "ToArea": { "X": 99, "Y": 16, "Width": 53, "Height": 37 },
+            "When":{
+                "enableMiniMap":"true",
+                "HasMod":"CPBoardingHouse"
+            }
+        },
+        //marnie luau edit
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Marnie",
+            "FromFile": "assets/{{Target}}.png",
+            "PatchMode": "Overlay"
+        },
+        //monster grave tiles
+        {
+            "Action": "EditImage",
+            "Target": "Maps/fall_monsterGraveTiles, Maps/spring_monsterGraveTiles, Maps/summer_monsterGraveTiles, Maps/winter_monsterGraveTiles",
+            "FromFile": "assets/{{Target}}.png"
+        },
+        //night market
+        {
+            "Action":"Load",
+            "Target":"Maps/night_market_tilesheet_objects",
+            "FromFile":"assets/{{Target}}.png"
+        },
+        //outdoors replace
+        {
+            "Action": "EditImage",
+            "Target": "Maps/spring_outdoorsTileSheet, Maps/summer_outdoorsTileSheet, Maps/fall_outdoorsTileSheet, Maps/winter_outdoorsTileSheet",
+            "FromFile": "assets/{{Target}}.png"
+        },
+		//outdoors replace translations
+        {
+            "Action": "EditImage",
+            "Target": "Maps/spring_outdoorsTileSheet, Maps/summer_outdoorsTileSheet, Maps/fall_outdoorsTileSheet, Maps/winter_outdoorsTileSheet",
+            "FromFile": "assets/{{Target}}_uk.png",
+			"When": { "Language": "uk" }
+        },
+        //outdoors2 replace
+        {
+            "Action": "EditImage",
+            "Target": "Maps/spring_outdoorsTileSheet2, Maps/summer_outdoorsTileSheet2, Maps/fall_outdoorsTileSheet2, Maps/winter_outdoorsTileSheet2",
+            "FromFile": "assets/{{Target}}.png"
+        },
+        // shipping bin
+        {
+            "Action":"EditImage",
+            "Target":"Buildings/Shipping Bin",
+            "FromFile":"assets/{{Target}}.png"
+        },
+        //town
+        {
+            "Action": "EditImage",
+            "Target": "Maps/spring_town, Maps/summer_town, Maps/fall_town, Maps/winter_town",
+            "FromFile": "assets/{{Target}}.png",
+            "PatchMode": "Overlay"
+        },
+		//town translations
+        {
+            "Action": "EditImage",
+            "Target": "Maps/spring_town, Maps/summer_town, Maps/fall_town, Maps/winter_town",
+            "FromFile": "assets/{{Target}}_uk.png",
+            "PatchMode": "Overlay",
+			"When": { "Language": "uk" }
+        },
+        {
+            "Action":"EditImage",
+            "Target":"Tilesheets/ChairTiles",
+            "FromFile":"assets/{{Target}}.png",
+            "PatchMode":"Overlay"
+        },
+        //trees
+        {
+            "Action": "EditImage",
+            "Target": "TerrainFeatures/tree1_spring, TerrainFeatures/tree1_summer, TerrainFeatures/tree1_fall, TerrainFeatures/tree1_winter",
+            "FromFile": "assets/{{Target}}.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "TerrainFeatures/tree2_spring, TerrainFeatures/tree2_summer, TerrainFeatures/tree2_fall, TerrainFeatures/tree2_winter",
+            "FromFile": "assets/{{Target}}.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "TerrainFeatures/tree3_spring, TerrainFeatures/tree3_fall, TerrainFeatures/tree3_winter",
+            "FromFile": "assets/{{Target}}.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "TerrainFeatures/tree_palm, TerrainFeatures/tree_palm2",
+            "FromFile": "assets/{{Target}}.png"
+        },
+        {
+            "Action":"EditImage",
+            "Target":"TerrainFeatures/tree8_spring,TerrainFeatures/tree8_summer,TerrainFeatures/tree8_fall,TerrainFeatures/tree8_winter",
+            "FromFile":"assets/{{Target}}.png"
+        }
+    ]
+}
