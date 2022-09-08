@@ -2,7 +2,7 @@
 
 ![](https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/11170746/3ef23c9138df24e797373b11d432bd6799fba0e7.png)
 
-**[CP] ChulkyBow Translation Team**
+**[CP] DanyloRoczniak's Translation Team**
 
 # StardewMods
 Ukrainian translation for Stardew Valley and it's Mods | Український переклад Stardew Valley та модів для неї
