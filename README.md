@@ -53,6 +53,7 @@ Noclip Mode                       | [✓](NoclipMode/i18n/uk.json)              
 Oasis Greenhouse                  | [∆](OasisGreenhouse/)                                          | [↑](https://www.nexusmods.com/stardewvalley/mods/3969?tab=posts&jump_to_comment=114468348&BH=0)|[![@ChulkyBow](https://avatars.githubusercontent.com/u/83290351?s=36)](https://github.com/ChulkyBow)
 Overgrown Flowery Interface       | [↻](OvergrownFloweryInterface/)                                | [Nexus](https://www.nexusmods.com/stardewvalley/mods/6166)                 |[![@burunduk](https://avatars.githubusercontent.com/u/912818?s=36)](https://github.com/burunduk)
 Bouhm's Pet Dogs                  | [✓](PetDogs/i18n/uk.json)                                      | [Nexus](https://www.nexusmods.com/stardewvalley/mods/570)                   | [![@ChulkyBow](https://avatars.githubusercontent.com/u/83290351?s=36)](https://github.com/ChulkyBow)
+Kid's Treehouse                   | [∆](Xiddav'sKid'sTreehouse/i18n/uk.json)                       | [↑](https://www.nexusmods.com/stardewvalley/mods/6377?tab=posts)           | [![@ChulkyBow](https://avatars.githubusercontent.com/u/83290351?s=36)](https://github.com/ChulkyBow)
 Lookup Anything                   | [✓](LookupAnything/i18n/uk.json)                               | [Nexus](https://www.nexusmods.com/stardewvalley/mods/541)                   |
 NPC Map Locations                 | [✓](NPCMapLocations/i18n/uk.json)                              | [Nexus](https://www.nexusmods.com/stardewvalley/mods/239)                   |
 Simplified Palette                | [∆](SimplifiedPalette/)                                        | [Google Диск](https://drive.google.com/file/d/1-Q765lGzVsteMRAr4GhKhpfslIu4S1JG/view?usp=drivesdk)| [![@burunduk](https://avatars.githubusercontent.com/u/912818?s=36)](https://github.com/burunduk)
@@ -74,7 +75,6 @@ UI Info Suite                     | [∆](UIInfoSuite/i18n/uk.json)             
 UI Info Suite 2                   | [↻](UIInfoSuite2/i18n/uk.json)                                 | [Github](https://github.com/Annosz/UIInfoSuite2/releases)                 |
 Warp Network                      | [✓](WarpNetwork/i18n/uk.json)                                  | [Nexus](https://www.nexusmods.com/stardewvalley/mods/8567)                 | [![@ChulkyBow](https://avatars.githubusercontent.com/u/83290351?s=36)](https://github.com/ChulkyBow)
 Warpnet Deepwoods                 | [∆](WarpnetDeepwoods/i18n/uk.json)                             | [↑](https://github.com/tlitookilakin/WarpnetDeepwoods/pull/1)             | [![@ChulkyBow](https://avatars.githubusercontent.com/u/83290351?s=36)](https://github.com/ChulkyBow)
-Kid's Treehouse                   | [∆](Xiddav'sKid'sTreehouse/i18n/uk.json)                       | [↑](https://www.nexusmods.com/stardewvalley/mods/6377?tab=posts)           | [![@ChulkyBow](https://avatars.githubusercontent.com/u/83290351?s=36)](https://github.com/ChulkyBow)
 ## Я хочу допомогти з перекладом, але як я можу це зробити?
 
 #### Треба навчитися користуватися платформою Github
