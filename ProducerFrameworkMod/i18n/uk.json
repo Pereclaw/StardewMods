@@ -1,0 +1,15 @@
+{
+	"Message.Requirement.Amount": "Необхідно {{objectName}} у кількості {{amount}} од.",
+	"Message.Requirement.Quality": "Необхідна інша якість цього предмета",
+	"Message.Requirement.Fuel": "Відсутній потрібний інгредієнт",
+	"Message.Requirement.Season": "Потрібна інша пора року",
+	"Message.Requirement.Weather": "Потрібна інша погода",
+	"Message.Requirement.Location": "Потрібна інша місцевість",
+	"Message.Requirement.InputParent": "Потрібно {{objectName}} іншого виду",
+	"Message.Condition.Location": "Не може тут працювати",
+	"Message.Condition.Season": "Не може працювати цієї пори року",
+	"Object.Category.Meat": "М'ясо (Будь-яке)",
+	"Object.Category.MetalResources": "Метали (Будь-які)",
+	"Object.Category.BuildingResources": "Будівельні ресурси (Будь-які)",
+	"Object.Category.TappedTreeProduct": "Продукт з соківничих дерев (Будь-який)"
+}
