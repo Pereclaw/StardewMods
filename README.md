@@ -74,7 +74,7 @@ TMXL Map Toolkit                  | [∆](TMXLoader/i18n/uk.json)               
 The Farmer's Children             | [∆](TheFarmer'sChildren/)                                       | [↑](https://www.nexusmods.com/stardewvalley/mods/5436/?tab=forum&topic_id=11987728)      | [![@ChulkyBow](https://avatars.githubusercontent.com/u/83290351?s=36)](https://github.com/ChulkyBow) [![@keshaParrot](https://avatars.githubusercontent.com/u/72469314?s=36)](https://github.com/keshaParrot)
 Tractor Mod                       | [✓](TractorMod/i18n/uk.json)                                   | [Nexus](https://www.nexusmods.com/stardewvalley/mods/1401)                 |
 UI Info Suite                     | [∆](UIInfoSuite/i18n/uk.json)                                   | [↑](https://github.com/cdaragorn/Ui-Info-Suite/pull/85)                     |
-UI Info Suite 2                   | [↻](UIInfoSuite2/i18n/uk.json)                                 | [Github](https://github.com/Annosz/UIInfoSuite2/releases)                   |
+UI Info Suite 2                   | [✓](UIInfoSuite2/i18n/uk.json)                                 | [Github](https://github.com/Annosz/UIInfoSuite2/releases)                   |
 Warp Network                      | [✓](WarpNetwork/i18n/uk.json)                                  | [Nexus](https://www.nexusmods.com/stardewvalley/mods/8567)                 |
 Warpnet Deepwoods                 | [∆](WarpnetDeepwoods/i18n/uk.json)                              | [↑](https://github.com/tlitookilakin/WarpnetDeepwoods/pull/1)               |
 ## Я хочу допомогти з перекладом, але як я можу це зробити?
