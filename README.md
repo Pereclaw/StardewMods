@@ -53,7 +53,7 @@ Greenhouse Gatherers              | [✓](GreenhouseGatherers/GreenhouseGatherer
 Horse Flute Anywhere              | [✓](HorseFluteAnywhere/i18n/uk.json)                           | [Nexus](https://www.nexusmods.com/stardewvalley/mods/7500)                 |
 Hybrid Crop Engine                | [∆](HybridCropEngine/i18n/uk.json)                             | [↑](https://github.com/spacechase0/StardewValleyMods/pull/274)             |
 Island Gatherers                  | [✓](IslandGatherers/IslandGatherers/assets/Parrot%20Pot/i18n/uk.json)| [↑](https://github.com/Floogen/IslandGatherers/pull/2)               |
-Jump Over                         | [∆](Jump Over/i18n/uk.json)                                    | [↑](https://github.com/spacechase0/StardewValleyMods/pull/274)             |
+Jump Over                         | [∆](JumpOver/i18n/uk.json)                                     | [↑](https://github.com/spacechase0/StardewValleyMods/pull/274)             |
 Junimos Accept Cash               | [∆](JunimosAcceptCash/i18n/uk.json)                            | [↑](https://github.com/spacechase0/StardewValleyMods/pull/274)             |
 Kid's Treehouse                   | [∆](Kid'sTreehouse/i18n/uk.json)                               | [↑](https://www.nexusmods.com/stardewvalley/mods/6377?tab=posts)                        | [![@ChulkyBow](https://avatars.githubusercontent.com/u/83290351?s=36)](https://github.com/ChulkyBow) [![@keshaParrot](https://avatars.githubusercontent.com/u/72469314?s=36)](https://github.com/keshaParrot)
 Lookup Anything                   | [✓](LookupAnything/i18n/uk.json)                               | [Nexus](https://www.nexusmods.com/stardewvalley/mods/541)                   |
