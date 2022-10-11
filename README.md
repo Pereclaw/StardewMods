@@ -29,13 +29,13 @@ Bug Net                           | [✓](BugNet/i18n/uk.json)                  
 CJB Cheats Menu                   | [✓](CJBCheatsMenu/i18n/uk.json)                                | [Nexus](https://www.nexusmods.com/stardewvalley/mods/4/)                   |
 CJB Item Spawner                  | [✓](CJBItemSpawner/i18n/uk.json)                               | [Nexus](https://www.nexusmods.com/stardewvalley/mods/93)                   |
 CJB Show Item Sell Price          | [✓](CJBShowItemSellPrice/i18n/uk.json)                         | [Nexus](https://www.nexusmods.com/stardewvalley/mods/5)                     |
-Capstone Professions              | [∆](CapstoneProfessions/i18n/uk.json)                          | [↑](https://github.com/spacechase0/StardewValleyMods/pull/274)             |
+Capstone Professions              | [∆](CapstoneProfessions/i18n/uk.json)                          | [↑](https://github.com/spacechase0/StardewValleyMods/pull/277)             |
 Chests Anywhere                   | [✓](ChestsAnywhere/i18n/uk.json)                               | [Nexus](https://www.nexusmods.com/stardewvalley/mods/518)                   |
-Combat Level Damage Scaler        | [∆](CombatLevelDamageScaler/i18n/uk.json)                      | [↑](https://github.com/spacechase0/StardewValleyMods/pull/274)             |
+Combat Level Damage Scaler        | [∆](CombatLevelDamageScaler/i18n/uk.json)                      | [↑](https://github.com/spacechase0/StardewValleyMods/pull/277)             |
 Community Center Helper           | [✓](CommunityCenterHelper/i18n/uk.json)                        | [Nexus](https://www.nexusmods.com/stardewvalley/mods/6893)                 |
-Controller Radial Keybindings     | [∆](ControllerRadialKeybindings/i18n/uk.json)                  | [↑](https://github.com/spacechase0/StardewValleyMods/pull/274)             |
+Controller Radial Keybindings     | [∆](ControllerRadialKeybindings/i18n/uk.json)                  | [↑](https://github.com/spacechase0/StardewValleyMods/pull/277)             |
 Cooking Skill                     | [✓](CookingSkill/i18n/uk.json)                                 | [↑](https://github.com/spacechase0/StardewValleyMods/pull/143)             | [![@burunduk](https://avatars.githubusercontent.com/u/912818?s=36)](https://github.com/burunduk)
-Custom Crops                      | [∆](Custom_Crops/i18n/uk.json)                                 | [↑](https://github.com/spacechase0/StardewValleyMods/pull/274)             |
+Custom Crops                      | [∆](Custom_Crops/i18n/uk.json)                                 | [↑](https://github.com/spacechase0/StardewValleyMods/pull/277)             |
 DaisyNiko's Earthy Recolour       | [∆](DaisyNiko'sEarthyRecolour/)                                | [↑](https://www.nexusmods.com/stardewvalley/mods/5255/?tab=posts&jump_to_comment=114523858)|[![@ChulkyBow](https://avatars.githubusercontent.com/u/83290351?s=36)](https://github.com/ChulkyBow) [![@yanchukcha](https://avatars.githubusercontent.com/u/53218680?s=36)](https://github.com/yanchukcha)
 Data Layers                       | [✓](DataLayers/i18n/uk.json)                                   | [Nexus](https://www.nexusmods.com/stardewvalley/mods/1691)                 |
 Debug Mode                        | [✓](DebugMode/i18n/uk.json)                                    | [Nexus](https://www.nexusmods.com/stardewvalley/mods/679)                   |
@@ -45,58 +45,58 @@ Experience Bars                   | [✓](ExperienceBars/i18n/uk.json)          
 Fashion Sense                     | [✓](FashionSense/i18n/uk.json)                                 | [Nexus](https://www.nexusmods.com/stardewvalley/mods/9969)                 |
 Fast Animations                   | [✓](FastAnimations/i18n/uk.json)                               | [Nexus](https://www.nexusmods.com/stardewvalley/mods/1089)                 |
 Fishing Trawler                   | [✓](FishingTrawler/FishingTrawler/FishingTrawler/i18n/uk.json) | [↑](https://github.com/Floogen/FishingTrawler/pull/8)                       |
-Flower  Rain                      | [∆](FlowerRain/i18n/uk.json)                                   | [↑](https://github.com/spacechase0/StardewValleyMods/pull/274)             |
+Flower  Rain                      | [∆](FlowerRain/i18n/uk.json)                                   | [↑](https://github.com/spacechase0/StardewValleyMods/pull/277)             |
 Generic Mod Config Menu           | [✓](GenericModConfigMenu/i18n/uk.json)                         | [Nexus](https://www.nexusmods.com/stardewvalley/mods/5098)                 |
 Gift Taste Helper                 | [∆](GiftTasteHelper/i18n/uk.json)                              | [↑](https://github.com/tstaples/GiftTasteHelper/pull/26)                   |
 Grandpa's Tools                   | [✓](GrandpasTools/i18n/uk.json)                                | [↑](https://www.nexusmods.com/stardewvalley/mods/8835?tab=posts)  |
 Greenhouse Gatherers              | [✓](GreenhouseGatherers/GreenhouseGatherers/GreenhouseGatherers/assets/HarvestStatue/i18n/uk.json)| [↑](https://github.com/Floogen/GreenhouseGatherers/pull/6)                                            |
 Horse Flute Anywhere              | [✓](HorseFluteAnywhere/i18n/uk.json)                           | [Nexus](https://www.nexusmods.com/stardewvalley/mods/7500)                 |
-Hybrid Crop Engine                | [∆](HybridCropEngine/i18n/uk.json)                             | [↑](https://github.com/spacechase0/StardewValleyMods/pull/274)             |
+Hybrid Crop Engine                | [∆](HybridCropEngine/i18n/uk.json)                             | [↑](https://github.com/spacechase0/StardewValleyMods/pull/277)             |
 Island Gatherers                  | [✓](IslandGatherers/IslandGatherers/assets/Parrot%20Pot/i18n/uk.json)| [↑](https://github.com/Floogen/IslandGatherers/pull/2)               |
-Jump Over                         | [∆](JumpOver/i18n/uk.json)                                     | [↑](https://github.com/spacechase0/StardewValleyMods/pull/274)             |
-Junimos Accept Cash               | [∆](JunimosAcceptCash/i18n/uk.json)                            | [↑](https://github.com/spacechase0/StardewValleyMods/pull/274)             |
+Jump Over                         | [∆](JumpOver/i18n/uk.json)                                     | [↑](https://github.com/spacechase0/StardewValleyMods/pull/277)             |
+Junimos Accept Cash               | [∆](JunimosAcceptCash/i18n/uk.json)                            | [↑](https://github.com/spacechase0/StardewValleyMods/pull/277)             |
 Kid's Treehouse                   | [∆](Kid'sTreehouse/i18n/uk.json)                               | [↑](https://www.nexusmods.com/stardewvalley/mods/6377?tab=posts)                        | [![@ChulkyBow](https://avatars.githubusercontent.com/u/83290351?s=36)](https://github.com/ChulkyBow) [![@keshaParrot](https://avatars.githubusercontent.com/u/72469314?s=36)](https://github.com/keshaParrot)
 Lookup Anything                   | [✓](LookupAnything/i18n/uk.json)                               | [Nexus](https://www.nexusmods.com/stardewvalley/mods/541)                   |
-Luck Skill                        | [∆](LuckSkill/i18n/uk.json)                                    | [↑](https://github.com/spacechase0/StardewValleyMods/pull/274)             |
-Magic                             | [∆](Magic/i18n/uk.json)                                        | [↑](https://github.com/spacechase0/StardewValleyMods/pull/274)             |
+Luck Skill                        | [∆](LuckSkill/i18n/uk.json)                                    | [↑](https://github.com/spacechase0/StardewValleyMods/pull/277)             |
+Magic                             | [∆](Magic/i18n/uk.json)                                        | [↑](https://github.com/spacechase0/StardewValleyMods/pull/277)             |
 Messy Crops                       | [✓](MessyCrops/i18n/uk.json)                                   | [Nexus](https://www.nexusmods.com/stardewvalley/mods/11317)                 |
-Misapplied Physicalities          | [∆](MisappliedPhysicalities/i18n/uk.json)                      | [↑](https://github.com/spacechase0/StardewValleyMods/pull/274)             |
+Misapplied Physicalities          | [∆](MisappliedPhysicalities/i18n/uk.json)                      | [↑](https://github.com/spacechase0/StardewValleyMods/pull/277)             |
 Mobile Phone                      | [✓](MobilePhone/i18n/uk.json)                                  | [Nexus](https://www.nexusmods.com/stardewvalley/mods/6523)                 | [![@ChulkyBow](https://avatars.githubusercontent.com/u/83290351?s=36)](https://github.com/ChulkyBow) [![@N7Art](https://avatars.githubusercontent.com/u/68689974?s=36)](https://github.com/N7Art)
-Moon Misadventures                | [∆](MoonMisadventures/i18n/uk.json)                            | [↑](https://github.com/spacechase0/StardewValleyMods/pull/274)             |
-More Buildings                    | [∆](MoreBuildings/)                                            | [↑](https://github.com/spacechase0/StardewValleyMods/pull/274)             |
-More Rings                        | [∆](MoreRings/i18n/uk.json)                                    | [↑](https://github.com/spacechase0/StardewValleyMods/pull/274)             |
+Moon Misadventures                | [∆](MoonMisadventures/i18n/uk.json)                            | [↑](https://github.com/spacechase0/StardewValleyMods/pull/277)             |
+More Buildings                    | [∆](MoreBuildings/)                                            | [↑](https://github.com/spacechase0/StardewValleyMods/pull/277)             |
+More Rings                        | [∆](MoreRings/i18n/uk.json)                                    | [↑](https://github.com/spacechase0/StardewValleyMods/pull/277)             |
 Multiplayer Mod                   | [∆](MultiplayerMod/i18n/uk.json)                               | [Google Диск](https://drive.google.com/file/d/15xigcZU-9A3mbZdebc_ykdyFc3NIl8HZ/view?usp=drivesdk)|
 NPC Map Locations                 | [✓](NPCMapLocations/i18n/uk.json)                              | [Nexus](https://www.nexusmods.com/stardewvalley/mods/239)                   |
 Neo's Succulent Farm              | [∆](Neo's%20succulent%20farm/)                                 | [↑](https://www.nexusmods.com/stardewvalley/mods/6378/?tab=forum&topic_id=11189748)|
-New Game Plus                     | [∆](NewGamePlus/i18n/uk.json)                                  | [↑](https://github.com/spacechase0/StardewValleyMods/pull/274)             |
+New Game Plus                     | [∆](NewGamePlus/i18n/uk.json)                                  | [↑](https://github.com/spacechase0/StardewValleyMods/pull/277)             |
 Noclip Mode                       | [✓](NoclipMode/i18n/uk.json)                                   | [Nexus](https://www.nexusmods.com/stardewvalley/mods/3900)                 |
 Oasis Greenhouse                  | [∆](OasisGreenhouse/)                                          | [↑](https://www.nexusmods.com/stardewvalley/mods/3969?tab=posts&jump_to_comment=114468348&BH=0)|
-Object Time Left                  | [∆](ObjectTimeLeft/i18n/uk.json)                               | [↑](https://github.com/spacechase0/StardewValleyMods/pull/274)             |
+Object Time Left                  | [∆](ObjectTimeLeft/i18n/uk.json)                               | [↑](https://github.com/spacechase0/StardewValleyMods/pull/277)             |
 Overgrown Flowery Interface       | [↻](OvergrownFloweryInterface/)                                | [Nexus](https://www.nexusmods.com/stardewvalley/mods/6166)                 |[![@burunduk](https://avatars.githubusercontent.com/u/912818?s=36)](https://github.com/burunduk)
-Picture Portraits                 | [∆](PicturePortraits/i18n/uk.json)                             | [↑](https://github.com/spacechase0/StardewValleyMods/pull/274)             |
-Preexisting Relationship          | [∆](PreexistingRelationship/i18n/uk.json)                      | [↑](https://github.com/spacechase0/StardewValleyMods/pull/274)             |
+Picture Portraits                 | [∆](PicturePortraits/i18n/uk.json)                             | [↑](https://github.com/spacechase0/StardewValleyMods/pull/277)             |
+Preexisting Relationship          | [∆](PreexistingRelationship/i18n/uk.json)                      | [↑](https://github.com/spacechase0/StardewValleyMods/pull/277)             |
 Producer Framework Mod            | [✓](ProducerFrameworkMod/i18n/uk.json)                         | [↑](https://www.nexusmods.com/stardewvalley/mods/4970/?tab=posts&jump_to_comment=114791198&BH=0)| [![@ChulkyBow](https://avatars.githubusercontent.com/u/83290351?s=36)](https://github.com/ChulkyBow) [![@keshaParrot](https://avatars.githubusercontent.com/u/72469314?s=36)](https://github.com/keshaParrot)
 Rain Obelisk                      | [✓](RainObelisk/i18n/uk.json)                                  | [↑](https://github.com/tlitookilakin/RainObelisk/pull/1)                   |
 Ranged Tools                      | [✓](RangedTools/i18n/uk.json)                                  | [Nexus](https://www.nexusmods.com/stardewvalley/mods/6935)                 |
-Realtime Minimap                  | [∆](RealtimeMinimap/i18n/uk.json)                              | [↑](https://github.com/spacechase0/StardewValleyMods/pull/274)             |
+Realtime Minimap                  | [∆](RealtimeMinimap/i18n/uk.json)                              | [↑](https://github.com/spacechase0/StardewValleyMods/pull/277)             |
 Ridgeside Village                 | [❑](Ridgeside%20Village/)                                     |                                                                             |
-Rush Orders                       | [∆](RushOrders/i18n/uk.json)                                   | [↑](https://github.com/spacechase0/StardewValleyMods/pull/274)             |
+Rush Orders                       | [∆](RushOrders/i18n/uk.json)                                   | [↑](https://github.com/spacechase0/StardewValleyMods/pull/277)             |
 SMAPI Android                     | [✓](SMAPI-Android-Installer/app/src/main/assets/smapi/i18n/uk.json)| [Github](https://github.com/ZaneYork/SMAPI-Android-Installer/releases)               |
 SMAPI Android Installer           | [✓](SMAPI-Android-Installer/app/src/main/)                     | [Github](https://github.com/ZaneYork/SMAPI-Android-Installer/releases)               | 
 SMAPI                             | [✓](SMAPI/smapi-internal/i18n/uk.json)                         | [SMAPI.io](https://smapi.io/)                                               |
 Simplified Palette                | [∆](SimplifiedPalette/)                                        | [Google Диск](https://drive.google.com/file/d/1-Q765lGzVsteMRAr4GhKhpfslIu4S1JG/view?usp=drivesdk)| [![@burunduk](https://avatars.githubusercontent.com/u/912818?s=36)](https://github.com/burunduk)
 Skip Intro                        | [✓](SkipIntro/i18n/uk.json)                                    | [Nexus](https://www.nexusmods.com/stardewvalley/mods/533)                   |
-Sleepy Eye                        | [∆](SleepyEye/i18n/uk.json)                                    | [↑](https://github.com/spacechase0/StardewValleyMods/pull/274)             |
+Sleepy Eye                        | [∆](SleepyEye/i18n/uk.json)                                    | [↑](https://github.com/spacechase0/StardewValleyMods/pull/277)             |
 Small Beach Farm                  | [✓](SmallBeachFarm/i18n/uk.json)                               | [Nexus](https://www.nexusmods.com/stardewvalley/mods/3750)                 |
 Space Core                        | [✓](SpaceCore/i18n/uk.json)                                    | [Nexus](https://www.nexusmods.com/stardewvalley/mods/1348)                 | [![@burunduk](https://avatars.githubusercontent.com/u/912818?s=36)](https://github.com/burunduk)
 Stardew Valley Expanded           | [❑](Stardew%20Valley%20Expanded/)                              |                                                                             |
 Stardrop                          | [✓](Stardrop/i18n/uk.json)                                     | [Nexus](https://www.nexusmods.com/stardewvalley/mods/10455)                 | [![@burunduk](https://avatars.githubusercontent.com/u/912818?s=36)](https://github.com/burunduk) [![@ChulkyBow](https://avatars.githubusercontent.com/u/83290351?s=36)](https://github.com/ChulkyBow)
 Statue of Generosity              | [✓](StatueOfGenerosity/i18n/uk.json)                           | [Nexus](https://www.nexusmods.com/stardewvalley/mods/7532)                 | [![@burunduk](https://avatars.githubusercontent.com/u/912818?s=36)](https://github.com/burunduk)
-Surfing Festival                  | [∆](SurfingFestival/)                                          | [↑](https://github.com/spacechase0/StardewValleyMods/pull/274)             |
+Surfing Festival                  | [∆](SurfingFestival/)                                          | [↑](https://github.com/spacechase0/StardewValleyMods/pull/277)             |
 TMXL Map Toolkit                  | [∆](TMXLoader/i18n/uk.json)                                    | [↑](https://www.nexusmods.com/stardewvalley/mods/1820?tab=posts)  |
 The Farmer's Children             | [∆](TheFarmer'sChildren/)                                      | [↑](https://www.nexusmods.com/stardewvalley/mods/5436/?tab=forum&topic_id=11987728)      | [![@ChulkyBow](https://avatars.githubusercontent.com/u/83290351?s=36)](https://github.com/ChulkyBow) [![@keshaParrot](https://avatars.githubusercontent.com/u/72469314?s=36)](https://github.com/keshaParrot)
-Theft Of The Winter Star          | [∆](TheftOfTheWinterStar/i18n/uk.json)                         | [↑](https://github.com/spacechase0/StardewValleyMods/pull/274)             |
-Three Heart Dance Partner         | [∆](ThreeHeartDancePartner/i18n/uk.json)                       | [↑](https://github.com/spacechase0/StardewValleyMods/pull/274)             |
+Theft Of The Winter Star          | [∆](TheftOfTheWinterStar/i18n/uk.json)                         | [↑](https://github.com/spacechase0/StardewValleyMods/pull/277)             |
+Three Heart Dance Partner         | [∆](ThreeHeartDancePartner/i18n/uk.json)                       | [↑](https://github.com/spacechase0/StardewValleyMods/pull/277)             |
 Tractor Mod                       | [✓](TractorMod/i18n/uk.json)                                   | [Nexus](https://www.nexusmods.com/stardewvalley/mods/1401)                 |
 UI Info Suite                     | [∆](UIInfoSuite/i18n/uk.json)                                  | [↑](https://github.com/cdaragorn/Ui-Info-Suite/pull/85)                     |
 UI Info Suite 2                   | [✓](UIInfoSuite2/i18n/uk.json)                                 | [Github](https://github.com/Annosz/UIInfoSuite2/releases)                   |
