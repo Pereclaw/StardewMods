@@ -22,7 +22,7 @@ Alternative Textures              | [✓](AlternativeTextures/i18n/uk.json)     
 Animal Social Menu                | [✓](AnimalSocialMenu/i18n/uk.json)                             | [↑](https://github.com/spacechase0/StardewValleyMods/pull/143)             | [![@burunduk](https://avatars.githubusercontent.com/u/912818?s=36)](https://github.com/burunduk)
 Another Hunger Mod                | [✓](AnotherHungerMod/i18n/uk.json)                             | [Nexus](https://www.nexusmods.com/stardewvalley/mods/3379)                 |
 Automate                          | [✓](Automate/i18n/uk.json)                                     | [Nexus](https://www.nexusmods.com/stardewvalley/mods/1063)                 |
-Better Beehouses                  | [↻](BetterBeehouses/i18n/uk.json)                              | [Nexus](https://www.nexusmods.com/stardewvalley/mods/10996)                 |
+Better Beehouses                  | [✓](BetterBeehouses/i18n/uk.json)                              | [Nexus](https://www.nexusmods.com/stardewvalley/mods/10996)                 |
 Better Shop Menu                  | [✓](BetterShopMenu/i18n/uk.json)                               | [↑](https://github.com/spacechase0/StardewValleyMods/pull/281)             |
 Bouhm's Pet Dogs                  | [✓](Bouhm'sPetDogs/i18n/uk.json)                               | [Nexus](https://www.nexusmods.com/stardewvalley/mods/570)                   |
 Bug Net                           | [✓](BugNet/i18n/uk.json)                                       | [Nexus](https://www.nexusmods.com/stardewvalley/mods/5099)                 | [![@burunduk](https://avatars.githubusercontent.com/u/912818?s=36)](https://github.com/burunduk)
