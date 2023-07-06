@@ -24,7 +24,8 @@ Another Hunger Mod                | [✓](AnotherHungerMod/i18n/uk.json)        
 Auto Fish                         | [∆](AutoFish/i18n/uk.json)                                     | [↑]()
 Automate                          | [✓](Automate/i18n/uk.json)                                     | [Nexus](https://www.nexusmods.com/stardewvalley/mods/1063)                 |
 Better Beehouses                  | [✓](BetterBeehouses/i18n/uk.json)                              | [Nexus](https://www.nexusmods.com/stardewvalley/mods/10996)                 |
-Better Shop Menu                  | [✓](BetterShopMenu/i18n/uk.json)                               | [↑](https://github.com/spacechase0/StardewValleyMods/pull/281)             |
+Better Shop Menu                  | [✓](BetterShopMenu/i18n/uk.json)                               | [Nexus](https://www.nexusmods.com/stardewvalley/mods/2012)             
+     |
 Bouhm's Pet Dogs                  | [✓](Bouhm'sPetDogs/i18n/uk.json)                               | [Nexus](https://www.nexusmods.com/stardewvalley/mods/570)                   |
 Bug Net                           | [✓](BugNet/i18n/uk.json)                                       | [Nexus](https://www.nexusmods.com/stardewvalley/mods/5099)                 | [![@burunduk](https://avatars.githubusercontent.com/u/912818?s=36)](https://github.com/burunduk)
 CJB Cheats Menu                   | [✓](CJBCheatsMenu/i18n/uk.json)                                | [Nexus](https://www.nexusmods.com/stardewvalley/mods/4/)                   |
