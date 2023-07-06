@@ -5,7 +5,7 @@
 **[CP] DaniellaTlumach's Translation Team**
 
 # StardewMods
-Ukrainian for SDV and SDV Mods | Український переклад Stardew Valley та модів для неї
+Ukrainian for SDV and SDV Mods | Український переклад Stardew Valley та модів для неї 
 
 ## Моди для Stardew Valley
 Українські переклади модів для гри Stardew Valley, переклад самої гри та мод-лаунчерів для неї (Як от SMAPI).
