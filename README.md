@@ -79,7 +79,7 @@ Preexisting Relationship          | [✓](PreexistingRelationship/i18n/uk.json) 
 Producer Framework Mod            | [✓](ProducerFrameworkMod/i18n/uk.json)                         | [↑](https://www.nexusmods.com/stardewvalley/mods/4970/?tab=posts&jump_to_comment=114791198&BH=0)| [![@DanielleTlumach](https://avatars.githubusercontent.com/u/83290351?s=36)](https://github.com/DanielleTlumach) [![@keshaParrot](https://avatars.githubusercontent.com/u/72469314?s=36)](https://github.com/keshaParrot)
 Rain Obelisk                      | [✓](RainObelisk/i18n/uk.json)                                  | [↑](https://github.com/tlitookilakin/RainObelisk/pull/1)                   |
 Ranged Tools                      | [✓](RangedTools/i18n/uk.json)                                  | [Nexus](https://www.nexusmods.com/stardewvalley/mods/6935)                 |
-Realtime Minimap                  | [✓](RealtimeMinimap/i18n/uk.json)                              | [↑](https://github.com/spacechase0/StardewValleyMods/pull/281)             |
+Realtime Minimap                  | [✓](RealtimeMinimap/i18n/uk.json)                              | [Nexus](https://www.nexusmods.com/stardewvalley/mods/9386)             
 Ridgeside Village                 | [❑](Ridgeside%20Village/)                                     |                                                                             |
 Rush Orders                       | [✓](RushOrders/i18n/uk.json)                                   | [↑](https://github.com/spacechase0/StardewValleyMods/pull/281)             |
 SMAPI Android                     | [✓](SMAPI-Android-Installer/app/src/main/assets/smapi/i18n/uk.json)| [Github](https://github.com/ZaneYork/SMAPI-Android-Installer/releases)               |
