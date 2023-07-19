@@ -21,7 +21,7 @@ Almanac                           | [✓](Almanac/i18n/uk.json)                 
 Alternative Textures              | [✓](AlternativeTextures/i18n/uk.json)                          | [Nexus](https://www.nexusmods.com/stardewvalley/mods/9246)                 | [![@burunduk](https://avatars.githubusercontent.com/u/912818?s=36)](https://github.com/burunduk)
 Animal Social Menu                | [✓](AnimalSocialMenu/i18n/uk.json)                             | [↑](https://github.com/spacechase0/StardewValleyMods/pull/143)             | [![@burunduk](https://avatars.githubusercontent.com/u/912818?s=36)](https://github.com/burunduk)
 Another Hunger Mod                | [✓](AnotherHungerMod/i18n/uk.json)                             | [Nexus](https://www.nexusmods.com/stardewvalley/mods/3379)                 |
-Auto Fish                         | [∆](AutoFish/i18n/uk.json)                                     | [↑]()
+Auto Fish                         | [∆](AutoFish/i18n/uk.json)                                     | [↑](https://www.nexusmods.com/stardewvalley/mods/1895?tab=posts)
 Automate                          | [✓](Automate/i18n/uk.json)                                     | [Nexus](https://www.nexusmods.com/stardewvalley/mods/1063)                 |
 Better Beehouses                  | [✓](BetterBeehouses/i18n/uk.json)                              | [Nexus](https://www.nexusmods.com/stardewvalley/mods/10996)                 |
 Better Shop Menu                  | [✓](BetterShopMenu/i18n/uk.json)                               | [Nexus](https://www.nexusmods.com/stardewvalley/mods/2012)
