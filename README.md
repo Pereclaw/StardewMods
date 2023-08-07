@@ -34,7 +34,7 @@ Capstone Professions              | [✓](CapstoneProfessions/i18n/uk.json)     
 Chests Anywhere                   | [✓](ChestsAnywhere/i18n/uk.json)                               | [Nexus](https://www.nexusmods.com/stardewvalley/mods/518)                   |
 Combat Level Damage Scaler        | [✓](CombatLevelDamageScaler/i18n/uk.json)                      | [↑](https://github.com/spacechase0/StardewValleyMods/pull/281)             |
 Community Center Helper           | [✓](CommunityCenterHelper/i18n/uk.json)                        | [Nexus](https://www.nexusmods.com/stardewvalley/mods/6893)                 |
-Community Wednesdays              | [∆](CommunityWednesdays/i18n/uk.json)                          | [Nexus](https://www.nexusmods.com/stardewvalley/mods/17301)
+Community Wednesdays              | [∆](CommunityWednesdays/i18n/content.json)                     | [Nexus](https://www.nexusmods.com/stardewvalley/mods/17301)
 Controller Radial Keybindings     | [✓](ControllerRadialKeybindings/i18n/uk.json)                  | [↑](https://github.com/spacechase0/StardewValleyMods/pull/281)             |
 Cooking Skill                     | [✓](CookingSkill/i18n/uk.json)                                 | [Nexus](https://www.nexusmods.com/stardewvalley/mods/522)                   | [![@burunduk](https://avatars.githubusercontent.com/u/912818?s=36)](https://github.com/burunduk)
 Custom Crops                      | [✓](Custom_Crops/i18n/uk.json)                                 | [↑](https://github.com/spacechase0/StardewValleyMods/pull/281)             |
