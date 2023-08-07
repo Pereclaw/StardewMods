@@ -34,6 +34,8 @@ Capstone Professions              | [✓](CapstoneProfessions/i18n/uk.json)     
 Chests Anywhere                   | [✓](ChestsAnywhere/i18n/uk.json)                               | [Nexus](https://www.nexusmods.com/stardewvalley/mods/518)                   |
 Combat Level Damage Scaler        | [✓](CombatLevelDamageScaler/i18n/uk.json)                      | [↑](https://github.com/spacechase0/StardewValleyMods/pull/281)             |
 Community Center Helper           | [✓](CommunityCenterHelper/i18n/uk.json)                        | [Nexus](https://www.nexusmods.com/stardewvalley/mods/6893)                 |
+Community Wednesdays              | [∆](CommunityWednesdays/i18n/uk.json)                          | [Nexus](https://www.nexusmods.com/stardewvalley/mods/17301)
+    |
 Controller Radial Keybindings     | [✓](ControllerRadialKeybindings/i18n/uk.json)                  | [↑](https://github.com/spacechase0/StardewValleyMods/pull/281)             |
 Cooking Skill                     | [✓](CookingSkill/i18n/uk.json)                                 | [Nexus](https://www.nexusmods.com/stardewvalley/mods/522)                   | [![@burunduk](https://avatars.githubusercontent.com/u/912818?s=36)](https://github.com/burunduk)
 Custom Crops                      | [✓](Custom_Crops/i18n/uk.json)                                 | [↑](https://github.com/spacechase0/StardewValleyMods/pull/281)             |
@@ -51,6 +53,10 @@ Generic Mod Config Menu           | [✓](GenericModConfigMenu/i18n/uk.json)    
 Gift Taste Helper                 | [∆](GiftTasteHelper/i18n/uk.json)                              | [↑](https://github.com/tstaples/GiftTasteHelper/pull/26)                   |
 Grandpa's Tools                   | [✓](GrandpasTools/i18n/uk.json)                                | [↑](https://www.nexusmods.com/stardewvalley/mods/8835?tab=posts)  |
 Greenhouse Gatherers              | [✓](GreenhouseGatherers/GreenhouseGatherers/GreenhouseGatherers/assets/HarvestStatue/i18n/uk.json)| [↑](https://github.com/Floogen/GreenhouseGatherers/pull/6)                                            |
+Happy Birthday                    | [∆](HappyBirthday/i18n/uk.json)                                | [Nexus](https://www.nexusmods.com/stardewvalley/mods/17241)
+    |
+Haunted Chocolatier               | [∆](HauntedChocolatier/i18n/uk.json)                           | [Nexus](https://www.nexusmods.com/stardewvalley/mods/17281)
+    |
 Horse Flute Anywhere              | [✓](HorseFluteAnywhere/i18n/uk.json)                           | [Nexus](https://www.nexusmods.com/stardewvalley/mods/7500)                 |
 Hybrid Crop Engine                | [✓](HybridCropEngine/i18n/uk.json)<br />[✓](HybridCropEngine/content-packs/%5BHCE%5D%20Garsnips/%5BJA%5D%20Garsnips/i18n/uk.json)                                       | [Nexus](https://www.nexusmods.com/stardewvalley/mods/6577)                 |
 Island Gatherers                  | [✓](IslandGatherers/IslandGatherers/assets/Parrot%20Pot/i18n/uk.json)| [↑](https://github.com/Floogen/IslandGatherers/pull/2)               |
