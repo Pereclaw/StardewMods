@@ -147,6 +147,8 @@ Warpnet Deepwoods                 | [∆](WarpnetDeepwoods/i18n/uk.json)        
 
 #### Translation | Переклад
 - DanielleTlumach.
+- Olexn.
+- KeshaParrot.
 
 ### Editing | Редагування
 - DanielleTlumach.
@@ -156,11 +158,11 @@ Warpnet Deepwoods                 | [∆](WarpnetDeepwoods/i18n/uk.json)        
 - DanielleTlumach.
 - yanchukcha.
 - twentysixz.
+- Olexn.
 
 #### Beta Testers | Тестувальники
 - DanielleTlumach.
 - MrMult.
-- Burunduk.
 - Olexn.
 
 #### Codding | Кодування
