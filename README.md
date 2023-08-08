@@ -145,17 +145,25 @@ Warpnet Deepwoods                 | [∆](WarpnetDeepwoods/i18n/uk.json)        
 
 ## Translators List | Список перекладачів
 
-#### Text Translation | Переклад текстів гри
-DanielleTlumach.
+#### Translation | Переклад
+- DanielleTlumach.
 
-#### Visual Game Translation | Переклад візуальної частини гри
-DanielleTlumach.
+### Editing | Редагування
+- DanielleTlumach.
+- Olexn.
+
+#### Grafics Translation | Переклад графіки
+- DanielleTlumach.
+- yanchukcha.
+- twentysixz.
 
 #### Beta Testers | Тестувальники
-DanielleTlumach, FoxyBowNoir, Nekury, Shikadai Nara, Makzef, DidkoDana, MrMult, Burunduk.
+- DanielleTlumach.
+- MrMult.
+- Burunduk.
+- Olexn.
 
-#### Bugtrackers | Баго-шукачі
-DanielleTlumach, FoxyBowNoir, uaxpasha, burunduk32, Nekury, Shikadai Nara, Trash_designer, Yvan_Snig, MrMult, DidkoDana, Владислав, ace0k, burunduk.
-
-#### Translation Helpers | Помічники з перекладом
-Burunduk, Trash_designer, Yvan_Snig, berandinow, makzef, MrMult, DidkoDana, Владислав, ace0k.
+#### Codding | Кодування
+- DanielleTlumach.
+- Olexn.
+- MrMult.
