@@ -68,7 +68,7 @@ Mobile Phone                      | [✓](MobilePhone/i18n/uk.json)             
 Moon Misadventures                | [✓](MoonMisadventures/i18n/uk.json)<br />[✓](MoonMisadventures/assets/dga/i18n/uk.json)                                                     | [Nexus](https://www.nexusmods.com/stardewvalley/mods/10612)                          |
 More Buildings                    | [✓](MoreBuildings/)                                            | [Nexus](https://www.nexusmods.com/stardewvalley/mods/2757)                 |
 More Rings                        | [✓](MoreRings/i18n/uk.json)                                    | [↑](https://github.com/spacechase0/StardewValleyMods/pull/281)             |
-Multiplayer Mod                   | [∆](MultiplayerMod/i18n/uk.json)                               | [Google Диск](https://drive.google.com/file/d/15xigcZU-9A3mbZdebc_ykdyFc3NIl8HZ/view?usp=drivesdk)|
+Multiplayer Mod                   | [∆](MultiplayerMod/i18n/uk.json)                               | [Google Диск](https://drive.google.com/file/d/1xjfk6aF7AmT3buBARCwZ1fgpuvKS9l7r/view?usp=drive_link)|
 NPC Map Locations                 | [✓](NPCMapLocations/i18n/uk.json)                              | [Nexus](https://www.nexusmods.com/stardewvalley/mods/239)                   |
 Neo's Succulent Farm              | [∆](Neo's%20succulent%20farm/)                                 | [↑](https://www.nexusmods.com/stardewvalley/mods/6378/?tab=forum&topic_id=11189748)|
 New Game Plus                     | [✓](NewGamePlus/i18n/uk.json)                                  | [Nexus](https://www.nexusmods.com/stardewvalley/mods/10786)                 |
@@ -87,7 +87,7 @@ Rush Orders                       | [✓](RushOrders/i18n/uk.json)              
 SMAPI Android                     | [✓](SMAPI-Android-Installer/app/src/main/assets/smapi/i18n/uk.json)| [Github](https://github.com/ZaneYork/SMAPI-Android-Installer/releases)               |
 SMAPI Android Installer           | [✓](SMAPI-Android-Installer/app/src/main/)                     | [Github](https://github.com/ZaneYork/SMAPI-Android-Installer/releases)               | 
 SMAPI                             | [✓](SMAPI/smapi-internal/i18n/uk.json)                         | [SMAPI.io](https://smapi.io/)                                               |
-Simplified Palette                | [∆](SimplifiedPalette/)                                        | [Google Диск](https://drive.google.com/file/d/1-Q765lGzVsteMRAr4GhKhpfslIu4S1JG/view?usp=drivesdk)| [![@burunduk](https://avatars.githubusercontent.com/u/912818?s=36)](https://github.com/burunduk)
+Simplified Palette                | [∆](SimplifiedPalette/)                                        | [Google Диск](https://drive.google.com/file/d/1pP1jTEGhr6XvKYsFCjJXVeCc8tM0NDFw/view?usp=drive_link)| [![@burunduk](https://avatars.githubusercontent.com/u/912818?s=36)](https://github.com/burunduk)
 Skip Intro                        | [✓](SkipIntro/i18n/uk.json)                                    | [Nexus](https://www.nexusmods.com/stardewvalley/mods/533)                   |
 Sleepy Eye                        | [✓](SleepyEye/i18n/uk.json)                                    | [↑](https://github.com/spacechase0/StardewValleyMods/pull/281)             |
 Small Beach Farm                  | [✓](SmallBeachFarm/i18n/uk.json)                               | [Nexus](https://www.nexusmods.com/stardewvalley/mods/3750)                 |
